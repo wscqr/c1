@@ -4,7 +4,7 @@
 	"lives": [{
 			"name": "feiyang.allinone",
 			"type": 0,
-			"url": "http://127.0.0.1:35455/tv.m3u",
+			"url": "http://127.0.0.1:35457/tv.m3u",
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -12,7 +12,23 @@
 		{
 			"name": "feiyang.tptv",
 			"type": 0,
-			"url": "http://127.0.0.1:35455/tptv.m3u",
+			"url": "http://127.0.0.1:35457/tptv.m3u",
+			"ua": "okhttp/3.15",
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "feiyang.migu",
+			"type": 0,
+			"url": "http://127.0.0.1:35457/migu.m3u",
+			"ua": "okhttp/3.15",
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "feiyang.miguevent",
+			"type": 0,
+			"url": "http://127.0.0.1:35457/miguevent.m3u",
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -20,7 +36,7 @@
 		{
 			"name": "feiyang.bililive",
 			"type": 0,
-			"url": "http://127.0.0.1:35455/bililive.m3u",
+			"url": "http://127.0.0.1:35457/bililive.m3u",
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -28,7 +44,7 @@
 		{
 			"name": "feiyang.huyayqk",
 			"type": 0,
-			"url": "http://127.0.0.1:35455/huyayqk.m3u",
+			"url": "http://127.0.0.1:35457/huyayqk.m3u",
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -36,7 +52,7 @@
 		{
 			"name": "feiyang.douyuyqk",
 			"type": 0,
-			"url": "http://127.0.0.1:35455/douyuyqk.m3u",
+			"url": "http://127.0.0.1:35457/douyuyqk.m3u",
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -44,7 +60,7 @@
 		{
 			"name": "feiyang.yylunbo",
 			"type": 0,
-			"url": "http://127.0.0.1:35455/yylunbo.m3u",
+			"url": "http://127.0.0.1:35457/yylunbo.m3u",
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -59,7 +75,7 @@
 			"changeable": 0,
 			"ext": {
 				"siteUrl": "http://127.0.0.1:9999",
-				"channelUsername": "hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				"channelUsername": "ucpanpan,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
 				"commonConfig": "./json/peizhi.json",
 				"filter": "./json/douban.json"
 			}
@@ -161,7 +177,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://labipan.com/",
+				"siteUrl": "https://labipan.com/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -174,20 +190,20 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://mogg.xn--yetu07f.top/",
+				"siteUrl": "http://www.muoupan.top/",
 				"filter": "./json/wogg.json"
 			}
 		},
 		{
 			"key": "玩偶gg",
-			"name": "玩偶gg",
+			"name": "玩偶 | 饭",
 			"type": 3,
 			"api": "csp_Wogg",
 			"searchable": 1,
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://www.wogg.bf/",
+				"siteUrl": "https://www.wogg.net/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -244,7 +260,19 @@
 			"filterable": 0,
 			"switchable": 0,
 			"ext": {
-				"channelUsername": "hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				"channelUsername": "ucpanpan,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				"commonConfig": "./json/peizhi.json"
+			}
+		},
+		{
+			"key": "小雷",
+			"name": "小雷",
+			"type": 3,
+			"api": "csp_Leijing",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": {
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
