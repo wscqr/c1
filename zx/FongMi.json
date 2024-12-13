@@ -1,5 +1,5 @@
 {
-	"spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+	"spider": "./custom_spider.jar;md5;dcad2384f6c780cfbf140d973044ecda",
 	"wallpaper": "https://bing.img.run/rand.php",
 	"lives": [{
 			"name": "feiyang.allinone",
@@ -75,7 +75,7 @@
 			"changeable": 0,
 			"ext": {
 				"siteUrl": "http://127.0.0.1:9999",
-				"channelUsername": "ucpanpan,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				"channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
 				"commonConfig": "./json/peizhi.json",
 				"filter": "./json/douban.json"
 			}
@@ -260,7 +260,20 @@
 			"filterable": 0,
 			"switchable": 0,
 			"ext": {
-				"channelUsername": "ucpanpan,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				"channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				"commonConfig": "./json/peizhi.json"
+			}
+		},
+		{
+			"key": "盘Ta",
+			"name": "盘Ta",
+			"type": 3,
+			"api": "csp_PanTa",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": {
+				"siteUrl": "https://www.91panta.cn/",
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
@@ -268,11 +281,12 @@
 			"key": "小雷",
 			"name": "小雷",
 			"type": 3,
-			"api": "csp_Leijing",
+			"api": "csp_PanTa",
 			"searchable": 1,
 			"filterable": 0,
 			"switchable": 0,
 			"ext": {
+				"siteUrl": "https://www.leijing1.com/",
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
