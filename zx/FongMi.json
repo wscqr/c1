@@ -1,34 +1,10 @@
 {
-	"spider": "./custom_spider.jar;md5;dcad2384f6c780cfbf140d973044ecda",
+	"spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
 	"wallpaper": "https://bing.img.run/rand.php",
 	"lives": [{
 			"name": "feiyang.allinone",
 			"type": 0,
 			"url": "http://127.0.0.1:35457/tv.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "feiyang.tptv",
-			"type": 0,
-			"url": "http://127.0.0.1:35457/tptv.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "feiyang.migu",
-			"type": 0,
-			"url": "http://127.0.0.1:35457/migu.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "feiyang.miguevent",
-			"type": 0,
-			"url": "http://127.0.0.1:35457/miguevent.m3u",
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -89,6 +65,19 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json"
+			}
+		},
+		{
+			"key": "网盘集合",
+			"name": "网盘集合|4K",
+			"type": 3,
+			"api": "csp_网盘集合",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"share": "./json/网盘集合.json"
 			}
 		},
 		{
@@ -354,19 +343,6 @@
 			"searchable": 1,
 			"changeable": 0,
 			"ext": "./json/alist.json"
-		},
-		{
-			"key": "网盘集合",
-			"name": "网盘集合|4K",
-			"type": 3,
-			"api": "csp_网盘集合",
-			"searchable": 1,
-			"filterable": 0,
-			"switchable": 0,
-			"ext": {
-				"commonConfig": "./json/peizhi.json",
-				"share": "./json/网盘集合.json"
-			}
 		},
 		{
 			"key": "push_agent",
