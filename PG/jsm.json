@@ -337,8 +337,19 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://yunpan.yunpay.cc$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		}, {
+			"ext": "./lib/tokenm.json$$$https://dcyun.cc$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+		}，{
+			"key": "六趣网盘",
+			"name": "六趣|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://wp.0v.fit$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+		}, 
+		{
 			"key": "多多网盘",
 			"name": "多多|网盘",
 			"type": 3,
