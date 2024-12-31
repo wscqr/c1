@@ -79,20 +79,7 @@
 				"commonConfig": "./json/peizhi.json",
 				"share": "./json/网盘集合.json"
 			}
-		},
-		{
-			"key": "玩偶 | 讴歌",
-			"name": "玩偶 | 讴歌",
-			"type": 3,
-			"api": "csp_kongbai",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": {
-				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://woog.nxog.eu.org",
-				"filter": "./json/wogg.json"
-			}
-		}，{
+		}, {
 			"key": "玩偶 | 六趣",
 			"name": "玩偶 | 六趣",
 			"type": 3,
@@ -102,6 +89,19 @@
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
 				"siteUrl": "https://wp.0v.fit",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
+			"key": "玩偶 | 讴歌",
+			"name": "玩偶 |讴歌",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "https://woog.nxog.eu.org",
 				"filter": "./json/wogg.json"
 			}
 		},
