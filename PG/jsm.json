@@ -351,6 +351,17 @@
 			"ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
 		},
 		{
+			"key": "下饭网盘",
+			"name": "下饭|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://txfyyds.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+		},
+		{
 			"key": "闪电网盘",
 			"name": "闪电|网盘",
 			"type": 3,
