@@ -185,6 +185,19 @@
 			}
 		},
 		{
+			"key": "玩偶 | 下饭",
+			"name": "玩偶 | 下饭",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "http://txfyyds.top/",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
 			"key": "玩偶 | 至臻",
 			"name": "玩偶 | 至臻",
 			"type": 3,
