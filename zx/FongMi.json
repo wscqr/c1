@@ -79,7 +79,8 @@
 				"commonConfig": "./json/peizhi.json",
 				"share": "./json/网盘集合.json"
 			}
-		}, {
+		},
+		{
 			"key": "玩偶 | 六趣",
 			"name": "玩偶 | 六趣",
 			"type": 3,
@@ -89,6 +90,58 @@
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
 				"siteUrl": "https://wp.0v.fit",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
+			"key": "玩偶 | UC小米",
+			"name": "玩偶 | UC小米",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "http://ucmi.fun",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
+			"key": "玩偶 | 闪电",
+			"name": "玩偶 | 闪电",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "http://1.95.79.193",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
+			"key": "玩偶 | 白嫖",
+			"name": "玩偶 | 白嫖",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "https://smdyo.top",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
+			"key": "玩偶 | 虎斑",
+			"name": "玩偶 | 虎斑",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "http://wp.huban.xyz",
 				"filter": "./json/wogg.json"
 			}
 		},
