@@ -319,6 +319,30 @@
 			}
 		},
 		{
+			"key": "鸟语花香",
+			"name": "鸟语花香|网盘",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./js/MGDM.js",
+			"playerType": 1,
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 1,
+			"indexs": 1
+		},
+		{
+			"key": "轻风细雨",
+			"name": "轻风细雨|网盘",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./js/TXDM.js",
+			"playerType": 1,
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 1,
+			"indexs": 1
+		},
+		{
 			"key": "纸条",
 			"name": "纸条|网盘搜索",
 			"type": 3,
