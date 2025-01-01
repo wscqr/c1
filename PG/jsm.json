@@ -318,30 +318,7 @@
 				"ratio": 1.77
 			}
 		},
-		{
-			"key": "鸟语花香",
-			"name": "鸟语花香|网盘",
-			"type": 3,
-			"api": "https://gitee.com/lanny520/study/raw/master/JS/drpy2.min.js",
-			"ext": "./js/MGDM.js",
-			"playerType": 1,
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 1,
-			"indexs": 1
-		},
-		{
-			"key": "轻风细雨",
-			"name": "轻风细雨|网盘",
-			"type": 3,
-			"api": "https://gitee.com/lanny520/study/raw/master/JS/drpy2.min.js",
-			"ext": "./js/TXDM.js",
-			"playerType": 1,
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 1,
-			"indexs": 1
-		},
+	
 		{
 			"key": "纸条",
 			"name": "纸条|网盘搜索",
@@ -363,6 +340,28 @@
 			"filterable": 1,
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$hhttps://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+		},
+		{
+			"key": "表哥网盘",
+			"name": "表哥|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+		},
+		{
+			"key": "老哥网盘",
+			"name": "老哥|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
 		},
 		{
 			"key": "蜡笔网盘",
@@ -518,28 +517,7 @@
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
 		},
-		{
-			"key": "Wobg",
-			"name": "玩偶表哥|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json$$$WOBG"
-		},
-		{
-			"key": "yydsys",
-			"name": "玩你老哥|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"
-		},
+	
 		{
 			"key": "美剧迷",
 			"name": "美剧迷|网盘",
