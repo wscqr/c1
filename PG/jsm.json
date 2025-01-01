@@ -349,7 +349,52 @@
 			"filterable": 1,
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		}, {
+		},
+		{
+			"key": "闪电网盘",
+			"name": "闪电|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://1.95.79.193$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+		},
+		{
+			"key": "白嫖网盘",
+			"name": "白嫖|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://smdyo.top$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+		},
+		{
+			"key": "虎斑网盘",
+			"name": "虎斑|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://wp.huban.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+		},
+		{
+			"key": "UC小米网盘",
+			"name": "UC小米|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://ucmi.fun$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+		},
+		{
 			"key": "至臻网盘",
 			"name": "至臻|网盘",
 			"type": 3,
