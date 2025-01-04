@@ -69,16 +69,6 @@
 			}
 		},
 		{
-			"key": "Wexokconfig",
-			"name": "天翼&移动｜配置中心",
-			"type": 3,
-			"api": "csp_Wexconfig",
-			"jar": "./wex.txt",
-			"searchable": 0,
-			"changeable": 0,
-			"indexs": 0
-		},
-		{
 			"key": "Local",
 			"name": "本地",
 			"type": 3,
@@ -327,6 +317,16 @@
 				"type": "rect",
 				"ratio": 1.77
 			}
+		},
+		{
+			"key": "Wexokconfig",
+			"name": "天翼&移动｜配置中心",
+			"type": 3,
+			"api": "csp_Wexconfig",
+			"jar": "./wex.txt",
+			"searchable": 0,
+			"changeable": 0,
+			"indexs": 0
 		},
 		{
 			"key": "雷鲸",
