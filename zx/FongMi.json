@@ -95,7 +95,7 @@
 			"name": "天翼云盘｜4k搜索",
 			"type": 3,
 			"api": "csp_Wextyso",
-			"jar": "./wex.jar",
+			"jar": "./wex.txt",
 			"searchable": 1,
 			"changeable": 0
 		},
