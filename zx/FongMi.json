@@ -81,6 +81,34 @@
 			}
 		},
 		{
+			"key": "Wexokconfig",
+			"name": "天翼&移动｜配置中心",
+			"type": 3,
+			"api": "csp_Wexconfig",
+			"jar": "./wex.txt",
+			"searchable": 0,
+			"changeable": 0,
+			"indexs": 0
+		},
+		{
+			"key": "Wextyso",
+			"name": "天翼云盘｜4k搜索",
+			"type": 3,
+			"api": "csp_Wextyso",
+			"jar": "./wex.jar",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "盘他",
+			"name": "移动盘他┃4K纯净‍",
+			"type": 3,
+			"api": "csp_WexYDpanta",
+			"jar": "./wex.txt",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
 			"key": "玩偶 | 六趣",
 			"name": "玩偶 | 六趣",
 			"type": 3,
