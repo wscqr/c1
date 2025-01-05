@@ -356,6 +356,20 @@
 			"changeable": 1
 		},
 		{
+			"key": "轻风细雨",
+			"name": "轻风细雨｜4k弹幕",
+			"type": 3,
+			"api": "https://gitee.com/lanny520/study/raw/master/JS/drpy2.min.js",
+			"ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/TXDM.js"
+		},
+		{
+			"key": "鸟语花香",
+			"name": "鸟语花香｜4k弹幕",
+			"type": 3,
+			"api": "https://gitee.com/lanny520/study/raw/master/JS/drpy2.min.js",
+			"ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/MGDM.js"
+		},
+		{
 			"key": "纸条",
 			"name": "纸条|网盘搜索",
 			"type": 3,
