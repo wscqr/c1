@@ -91,6 +91,15 @@
 			"indexs": 0
 		},
 		{
+			"key": "雷鲸",
+			"name": "雷鲸小站┃天翼4K‍",
+			"type": 3,
+			"api": "csp_Wexleijing",
+			"jar": "./wex.txt",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
 			"key": "Wextyso",
 			"name": "天翼云盘｜4k搜索",
 			"type": 3,
