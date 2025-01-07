@@ -111,6 +111,17 @@
 			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
 		},
 		{
+			"key": "hipy_js_4k剧院",
+			"name": "4k剧院(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/4k剧院.js"
+		},
+		{
 			"key": "hipy_js_厂长资源",
 			"name": "厂长资源(drpy_t3)",
 			"type": 3,
@@ -143,7 +154,17 @@
 			"order_num": 0,
 			"ext": "./drpy_js/LIBVIO[优].js"
 		},
-
+	        {
+			"key": "hipy_js_臭蛋蛋",
+			"name": "臭蛋蛋(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/臭蛋蛋.js"
+		},
 		{
 			"key": "hipy_js_PTT[优]",
 			"name": "PTT[优](drpy_t3)",
@@ -154,7 +175,19 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/PTT[优].js"
-		}, {
+		}, 
+		{
+			"key": "hipy_js_爱看机器人[虫]",
+			"name": "爱看机器人[虫](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/爱看机器人[虫].js"
+		},
+		{
 			"key": "hipy_js_央视大全[官]",
 			"name": "央视大全[官](drpy_t3)",
 			"type": 3,
