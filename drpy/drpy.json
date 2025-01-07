@@ -243,6 +243,17 @@
 			"ext": "./drpy_js/电影狗.js"
 		},
 		{
+			"key": "hipy_js_饭团影视",
+			"name": "饭团影视(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/饭团影视.js"
+		},
+		{
 			"key": "hipy_js_爱看机器人[虫]",
 			"name": "爱看机器人[虫](drpy_t3)",
 			"type": 3,
