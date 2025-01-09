@@ -5,7 +5,7 @@
   "115Cookie": "",
   "pwdRb115": "",
   "goServerUrl": "http://127.0.0.1:9966",
-  "ydAuth": "",
+  "ydAuth": "Basic cGM6MTMwMDIzMjY2ODg6Vm0yeXQxT1R8MXxSQ1N8MTczOTAxMzYzNzYwOXxzM1VUcksucXhPZ1QzSnRMN2JnZGw2LlcxR2dzclNwWlNSTnpMZVJTVVBlN18xbjB6bE9sTWlCcHRWNWlxVXNIeTMuaW95cTJqNFEudXF1VGN5dDhNTnJQWUQwZTc2cTE3VFpfbHFxUm5vYXNKU29YWEx2Z3hPR0lWN0hQU0tKYVhDMmVMUjZyYXV4bXVDZEFlcW0yMWxCbFRQVm5lOEpUclhzT3hDMU5fdWct",
   "tyAuth": "",
   "proxy": "http://127.0.0.1:1072",
   "tgPic": "false"
