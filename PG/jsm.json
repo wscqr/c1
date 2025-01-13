@@ -348,6 +348,15 @@
 		},
 		{
 			"key": "盘他",
+			"name": "移动盘他｜蓝光网盘‍",
+			"type": 3,
+			"api": "csp_YDjisu",
+			"searchable": 1,
+			"changeable": 1,
+			"jar": "./lib/YD.txt"
+		},
+		{
+			"key": "盘他",
 			"name": "移动盘他┃4K纯净‍",
 			"type": 3,
 			"api": "csp_WexYDpanta",
