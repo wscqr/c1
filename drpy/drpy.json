@@ -154,7 +154,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/LIBVIO[优].js"
 		},
-	        {
+		{
 			"key": "hipy_js_臭蛋蛋",
 			"name": "臭蛋蛋(drpy_t3)",
 			"type": 3,
@@ -576,6 +576,22 @@
 			"name": "蓝光解析2",
 			"type": 0,
 			"url": "https://dm.xmflv.com:4433/?url="
+		},
+		{
+			"name": "优选解析1",
+			"type": 1,
+			"url": "http://isp.wki8.com/jx.php?url="
+
+		},
+		{
+			"name": "优选解析2",
+			"type": 1,
+			"url": "http://mf.0v.fit/api/?key=3ef5647feb0e98fdee66820efd36e2dd&url="
+		},
+		{
+			"name": "优选解析3",
+			"type": 1,
+			"url": "http://1.94.221.189:88/algorithm.php?url="
 		},
 		{
 			"name": "云析",
