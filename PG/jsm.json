@@ -319,43 +319,6 @@
 			}
 		},
 		{
-			"key": "Wexokconfig",
-			"name": "天翼&移动｜配置中心",
-			"type": 3,
-			"api": "csp_Wexconfig",
-			"jar": "./wex.jar",
-			"searchable": 0,
-			"changeable": 0,
-			"indexs": 0
-		},
-		{
-			"key": "雷鲸",
-			"name": "雷鲸小站┃天翼4K‍",
-			"type": 3,
-			"api": "csp_Wexleijing",
-			"jar": "./wex.jar",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "Wextyso",
-			"name": "天翼云盘｜4k搜索",
-			"type": 3,
-			"api": "csp_Wextyso",
-			"jar": "./wex.jar",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "盘他",
-			"name": "移动盘他┃4K纯净‍",
-			"type": 3,
-			"api": "csp_WexYDpanta",
-			"jar": "./wex.jar",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
 			"key": "纸条",
 			"name": "纸条|网盘搜索",
 			"type": 3,
