@@ -2,7 +2,7 @@
 	"spider": "./pg.jar",
 	"sites": [{
 			"key": "t5-douban",
-			"name": "影视-豆瓣(t5)",
+			"name": "影视-豆瓣(t4)",
 			"type": 4,
 			"api": "https://catbox.n13.club/t5/douban.php"
 		},
