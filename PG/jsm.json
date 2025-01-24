@@ -1,7 +1,6 @@
 {
 	"spider": "./pg.jar",
-	"sites": [
-		{
+	"sites": [{
 			"key": "豆瓣",
 			"name": "豆瓣",
 			"type": 3,
