@@ -238,19 +238,6 @@
 			}
 		},
 		{
-			"key": "玩偶 | 小胡",
-			"name": "玩偶 | 小胡",
-			"type": 3,
-			"api": "csp_kongbai",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": {
-				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://mogg.小胡.top",
-				"filter": "./json/wogg.json"
-			}
-		},
-		{
 			"key": "玩偶 | 蜡笔",
 			"name": "玩偶 | 蜡笔",
 			"type": 3,
