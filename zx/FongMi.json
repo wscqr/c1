@@ -181,7 +181,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://tv.yydsys.top",
+				"siteUrl": "https://tv.yydsys.cc/",
 				"filter": "./json/wogg.json"
 			}
 		},
