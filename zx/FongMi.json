@@ -1,5 +1,5 @@
 {
-	"spider": "./custom_spider.jar",
+	"spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
 	"wallpaper": "https://bing.img.run/rand.php",
 	"lives": [{
 			"name": "feiyang.allinone",
@@ -51,6 +51,7 @@
 			"changeable": 0,
 			"ext": {
 				"siteUrl": "http://127.0.0.1:9999",
+				"count": 4,
 				"channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
 				"commonConfig": "./json/peizhi.json",
 				"filter": "./json/douban.json"
@@ -69,7 +70,7 @@
 		},
 		{
 			"key": "网盘集合",
-			"name": "网盘集合|4K",
+			"name": "网盘集合 | 4K",
 			"type": 3,
 			"api": "csp_网盘集合",
 			"searchable": 1,
@@ -237,6 +238,19 @@
 			}
 		},
 		{
+			"key": "玩偶 | 小胡",
+			"name": "玩偶 | 小胡",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "http://mogg.小胡.top",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
 			"key": "玩偶 | 蜡笔",
 			"name": "玩偶 | 蜡笔",
 			"type": 3,
@@ -258,7 +272,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://mogg.小胡.top",
+				"siteUrl": "http://www.muoupan.top/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -273,6 +287,32 @@
 				"commonConfig": "./json/peizhi.json",
 				"siteUrl": "https://www.wogg.net/",
 				"filter": "./json/wogg.json"
+			}
+		},
+		{
+			"key": "网盘 | 片库",
+			"name": "网盘 | 片库",
+			"type": 3,
+			"api": "csp_Qiwei",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": {
+				"siteUrl": "https://www.qwnull.com",
+				"commonConfig": "./json/peizhi.json"
+			}
+		},
+		{
+			"key": "星剧社",
+			"name": "网盘 | 星剧社",
+			"type": 3,
+			"api": "csp_Star2",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": {
+				"siteUrl": "https://www.4.star2.cn/",
+				"commonConfig": "./json/peizhi.json"
 			}
 		},
 		{
@@ -293,8 +333,21 @@
 			}
 		},
 		{
+			"key": "盤搜天意",
+			"name": "网盘 | 盤搜天意",
+			"type": 3,
+			"api": "csp_PanSou",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": {
+				"siteUrl": "https://www.tianyiso.com",
+				"commonConfig": "./peizhi.json"
+			}
+		},
+		{
 			"key": "lf_live10_min",
-			"name": " 路飞丨Live",
+			"name": "路飞丨Live",
 			"type": 3,
 			"searchable": 0,
 			"quickSearch": 1,
@@ -321,20 +374,21 @@
 		},
 		{
 			"key": "TgYunPan|本地",
-			"name": "TgYunPan|本地",
+			"name": "TgYunPan | 本地",
 			"type": 3,
 			"api": "csp_TgYunPanLocal",
 			"searchable": 1,
 			"filterable": 0,
 			"switchable": 0,
 			"ext": {
+				"count": 4,
 				"channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
 		{
 			"key": "盘Ta",
-			"name": "盘Ta",
+			"name": "网盘 | 盘Ta",
 			"type": 3,
 			"api": "csp_PanTa",
 			"searchable": 1,
@@ -347,7 +401,7 @@
 		},
 		{
 			"key": "小雷",
-			"name": "小雷",
+			"name": "网盘 | 小雷",
 			"type": 3,
 			"api": "csp_PanTa",
 			"searchable": 1,
@@ -358,34 +412,23 @@
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
-		{
-			"key": "星剧社",
-			"name": "星剧社",
-			"type": 3,
-			"api": "csp_Star2",
-			"searchable": 1,
-			"filterable": 0,
-			"switchable": 0,
-			"ext": {
-				"commonConfig": "./json/peizhi.json"
-			}
-		},
+
 		{
 			"key": "易搜",
-			"name": "易搜|4K",
+			"name": "易搜 | 4K",
 			"type": 3,
 			"api": "csp_YiSo",
 			"searchable": 1,
 			"filterable": 0,
 			"switchable": 0,
 			"ext": {
-				"cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
+				"cookie": "",
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
 		{
 			"key": "盤搜索",
-			"name": "盤搜索",
+			"name": "网盘 | 盤搜索",
 			"type": 3,
 			"api": "csp_PanSearch",
 			"searchable": 1,
@@ -396,7 +439,7 @@
 		},
 		{
 			"key": "紙條搜",
-			"name": "紙條搜",
+			"name": "网盘 | 紙條搜",
 			"type": 3,
 			"api": "csp_XiaoZhiTiao",
 			"searchable": 1,
@@ -404,15 +447,6 @@
 			"ext": {
 				"commonConfig": "./json/peizhi.json"
 			}
-		},
-		{
-			"key": "賤賤",
-			"name": "賤賤",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
 		},
 		{
 			"key": "AList",
@@ -557,22 +591,6 @@
 				"网球",
 				"斯诺克"
 			]
-		}
-	],
-	"parses": [{
-			"name": "4k解析",
-			"type": 1,
-			"url": "http://1.94.221.189:88/algorithm.php?url="
-		},
-		{
-			"name": "蓝光解析1",
-			"type": 0,
-			"url": "https://bd.jx.cn/?url="
-		},
-		{
-			"name": "蓝光解析2",
-			"type": 0,
-			"url": "https://dm.xmflv.com:4433/?url="
 		}
 	],
 	"rules": [{
