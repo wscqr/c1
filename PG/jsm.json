@@ -459,7 +459,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://wp.huban.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+			"ext": "./lib/tokenm.json$$$http://45.207.212.215:12121$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
 		},
 		{
 			"key": "UC小米网盘",
