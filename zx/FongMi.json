@@ -142,7 +142,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://wp.huban.xyz",
+				"siteUrl": "http://45.207.212.215:12121",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -259,7 +259,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://www.muoupan.top/",
+				"siteUrl": "http://www.mogg.top",
 				"filter": "./json/wogg.json"
 			}
 		},
