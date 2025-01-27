@@ -111,6 +111,17 @@
 			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
 		},
 		{
+			"key": "hipy_js_黑狐影院",
+			"name": "黑狐影院(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/黑狐影院.js"
+		},
+		{
 			"key": "hipy_js_4k剧院",
 			"name": "4k剧院(drpy_t3)",
 			"type": 3,
@@ -155,6 +166,39 @@
 			"ext": "./drpy_js/LIBVIO[优].js"
 		},
 		{
+			"key": "hipy_js_农民影视[优]",
+			"name": "农民影视[优](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/农民影视[优].js"
+		},
+		{
+			"key": "hipy_js_农民影视gz",
+			"name": "农民影视gz(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/农民影视gz.js"
+		},
+		{
+			"key": "hipy_js_七新电影网",
+			"name": "七新电影网(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/七新电影网.js"
+		},
+		{
 			"key": "hipy_js_臭蛋蛋",
 			"name": "臭蛋蛋(drpy_t3)",
 			"type": 3,
@@ -165,19 +209,17 @@
 			"order_num": 0,
 			"ext": "./drpy_js/臭蛋蛋.js"
 		},
-
-		{
-			"key": "hipy_js_蛋蛋赞",
-			"name": "蛋蛋赞(drpy_t3)",
+	        {
+			"key": "hipy_js_剧迷",
+			"name": "剧迷(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/蛋蛋赞.js"
+			"ext": "./drpy_js/剧迷.js"
 		},
-
 		{
 			"key": "hipy_js_电影先生",
 			"name": "电影先生(drpy_t3)",
@@ -210,6 +252,17 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/爱看机器人[虫].js"
+		},
+		{
+			"key": "hipy_js_黑木耳资源[资]",
+			"name": "黑木耳资源[资](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/黑木耳资源[资].js"
 		},
 		{
 			"key": "hipy_js_央视大全[官]",
