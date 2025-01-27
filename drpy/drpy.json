@@ -122,6 +122,17 @@
 			"ext": "./drpy_js/黑狐影院.js"
 		},
 		{
+			"key": "hipy_js_素白白",
+			"name": "素白白(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/素白白.js"
+		},
+		{
 			"key": "hipy_js_4k剧院",
 			"name": "4k剧院(drpy_t3)",
 			"type": 3,
@@ -198,16 +209,16 @@
 			"order_num": 0,
 			"ext": "./drpy_js/七新电影网.js"
 		},
-		{
-			"key": "hipy_js_臭蛋蛋",
-			"name": "臭蛋蛋(drpy_t3)",
+	        {
+			"key": "hipy_js_网飞啦[自动]",
+			"name": "网飞啦[自动](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/臭蛋蛋.js"
+			"ext": "./drpy_js/网飞啦[自动].js"
 		},
 	        {
 			"key": "hipy_js_剧迷",
@@ -243,6 +254,17 @@
 			"ext": "./drpy_js/电影狗.js"
 		},
 		{
+			"key": "hipy_js_鸭飞影视[V2]",
+			"name": "鸭飞影视[V2](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/鸭飞影视[V2].js"
+		},
+		{
 			"key": "hipy_js_爱看机器人[虫]",
 			"name": "爱看机器人[虫](drpy_t3)",
 			"type": 3,
@@ -252,6 +274,39 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/爱看机器人[虫].js"
+		},
+		{
+			"key": "hipy_js_热片网",
+			"name": "热片网(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/热片网.js"
+		},
+		{
+			"key": "hipy_js_人人影视",
+			"name": "人人影视(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/人人影视.js"
+		},
+		{
+			"key": "hipy_js_PTT[优]",
+			"name": "PTT[优](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/PTT[优].js"
 		},
 		{
 			"key": "hipy_js_黑木耳资源[资]",
