@@ -6,7 +6,7 @@
   "pwdRb115": "",
   "goServerUrl": "http://127.0.0.1:9966",
   "ydAuth": "",
-  "tyAuth": "",
+  "tyAuth": "apm_ua=FFC3218438300D069A0FD5DFA5C6E851; apm_key=AAC3BEC0531164D84C97793B1C0D807C; apm_ct=20250104190126000; apm_uid=DC96B5EE5D1579719E293B645864E22C; apm_sid=B99AD1029B3B0FB3D5C1C164FB7BA8A0; apm_ls=https://www.baidu.com/link; apm_pr=1",
   "proxy": "http://127.0.0.1:1072",
   "tgPic": "false"
 }
