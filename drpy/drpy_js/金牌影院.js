@@ -1,1 +1,158 @@
-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
+// http://localhost:5757/api/金牌影院?ac=list&t=1&pg=1
+// http://localhost:5757/api/金牌影院?ac=detail&ids=/detail/131374
+// http://localhost:5757/api/金牌影院?wd=我的&pg=1
+// http://localhost:5757/api/金牌影院?play=/vod/play/131374/sid/1125278&flag=金牌影院
+const {req_} = $.require('./_lib.request.js')
+var rule = {
+    类型: '影视',
+    title: '金牌影院',
+    desc: '金牌影院纯js版本',
+    host: 'https://m.cfkj86.com',
+    homeUrl:'',
+    url: 'https://m.cfkj86.com/api/mw-movie/anonymous/video/list?pageNum=fypage&pageSize=30&sort=1&sortBy=1&type1=fyclass',
+    searchUrl: '/api/mw-movie/anonymous/video/searchByWordPageable?keyword=**&pageNum=fypage&pageSize=12&type=false',
+    searchable: 1,
+    quickSearch: 1,
+    timeout: 5000,
+    play_parse: true,
+    headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'accept-language': 'zh-CN,zh;q=0.9'
+    },
+    class_parse: async () => {
+         let classes = [{
+                type_id: '1',
+                type_name: '电影',
+            },{
+                type_id: '2',
+                type_name: '剧集',
+            },{
+                type_id: '3',
+                type_name: '综艺',
+            },{
+                type_id: '4',
+                type_name: '动漫',
+            }];
+        return {
+            class: classes,
+        }
+    },
+    预处理: async () => {
+        return []
+    },
+    推荐: async () => {
+        return []
+    },
+    一级: async function (tid, pg, filter, extend) {
+        let {MY_CATE, input} = this;
+        if (pg <= 0) pg = 1;
+        const t = new Date().getTime()
+        const signkey = `pageNum=${pg}&pageSize=30&sort=1&sortBy=1&type1=${tid}&key=cb808529bae6b6be45ecfab29a4889bc&t=`+t
+        const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+        const html = JSON.parse((await req(`https://m.cfkj86.com/api/mw-movie/anonymous/video/list?pageNum=${pg}&pageSize=30&sort=1&sortBy=1&type1=${tid}`,
+            {
+            headers:{
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
+                'Accept': 'application/json, text/plain, */*',
+                'deviceId': '58a80c52-138c-48fd-8edb-138fd74d12c8',
+                'sign': key,
+                't': t
+            }
+        })).content);
+        let d = [];
+        const list = html.data.list
+        list.forEach((it)=>{
+            d.push({
+                title: it.vodName,
+                url: '/detail/'+it.vodId,
+                desc: it.vodRemarks || it.vodVersion,
+                pic_url: it.vodPic,
+            })
+        })
+        return setResult(d)
+    },
+    二级: async function (ids) {
+        let {input} = this;
+        let id = ids[0]
+        let id_ = id.split('/')[2]
+        const t = new Date().getTime()
+        const signkey = `id=${id_}&key=cb808529bae6b6be45ecfab29a4889bc&t=`+t
+        const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+        const html = await req_(`https://www.cfkj86.com/api/mw-movie/anonymous/video/detail?id=${id_}`,'get',{
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
+            'Accept': 'application/json, text/plain, */*',
+            'authorization':'',
+            'deviceId': '58a80c52-138c-48fd-8edb-138fd74d12c8',
+            'sign': key,
+            't': t.toString()
+        });
+        const vod = {
+            vod_id: id,
+            vod_name: html.data.vodName,
+        };
+        let playFroms = [];
+        let playUrls = [];
+        const temp = [];
+        let playlist = html.data.episodeList;
+        // let list = html.match(/\"episodeList\\":\s*(\[[\s\S]*?\])/g)[0].replace('"episodeList\\":', '').replace(/\\/g, '');
+        // let playlist = JSON.parse(list)
+        for (const it of playlist) {
+            temp.push(it.name+'$'+`/vod/play/${id_}/sid/${it.nid}`)
+        }
+        playFroms.push('不知道倾情打造');
+        playUrls.push(temp.join('#'));
+        vod.vod_play_from = playFroms.join('$$$');
+        vod.vod_play_url = playUrls.join('$$$');
+
+        return vod
+    },
+    搜索: async function (wd, quick, pg) {
+        let {input} = this
+        const t = new Date().getTime()
+        //keyword=你&pageNum=1&pageSize=12&type=false&key=cb808529bae6b6be45ecfab29a4889bc&t=1722904806016
+        const signkey = 'keyword='+wd+'&pageNum='+pg+'&pageSize=12&type=false&key=cb808529bae6b6be45ecfab29a4889bc&t='+t
+        const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+        let html = JSON.parse((await req(input,
+            {
+                headers:{
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
+                    'Accept': 'application/json, text/plain, */*',
+                    'authorization':'',
+                    'deviceId': '58a80c52-138c-48fd-8edb-138fd74d12c8',
+                    'sign': key,
+                    't': t.toString()
+                }
+        })).content);
+        let d = [];
+        const list = html.data.list
+        list.forEach((it)=>{
+            d.push({
+                title: it.vodName,
+                url: '/detail/'+it.vodId,
+                desc: it.vodRemarks || '暂无更新',
+                pic_url: it.vodPic,
+            })
+        })
+        return setResult(d)
+    },
+    lazy: async function (flag, id, flags) {
+        let {getProxyUrl,input} = this;
+        const pid = input.split('/')[3]
+        const nid = input.split('/')[5]
+        const t = new Date().getTime()
+        const signkey = `clientType=1&id=${pid}&nid=${nid}&key=cb808529bae6b6be45ecfab29a4889bc&t=`+t
+        const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+        const relurl = 'https://www.cfkj86.com/api/mw-movie/anonymous/v1/video/episode/url?clientType=1&id='+pid+'&nid='+nid
+        const html = await req_(relurl,'get', {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
+                    'Accept': 'application/json, text/plain, */*',
+                    'authorization':'',
+                    'deviceId': '58a80c52-138c-48fd-8edb-138fd74d12c8',
+                    'sign': key,
+                    't': t.toString()
+                })
+        return {parse: 0, url: html.data.playUrl}
+    },
+};
+
