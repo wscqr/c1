@@ -142,7 +142,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://45.207.212.215:12121",
+				"siteUrl": "http://103.45.162.207:20720",
 				"filter": "./json/wogg.json"
 			}
 		},
