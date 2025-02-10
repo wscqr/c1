@@ -10,12 +10,13 @@
 网盘集合.json 支持根据share_index名进行聚合（不同网盘也可以随意聚合）以减少分类数目  分类更加清晰  可以参考网盘集合.json写法
 
 今日更新
+1.兼容115网盘 新域名
+2.tgsou兼容115网盘新域名（仅armv8和x86-linux）
+
+
 1.goProxy支持本地运行 位置跟其他二进制一样在tv/lib 需要命名为goProxy 本地运行goProxy将不会自动更新 每次新jar 需要到仓库下载（https://www.gitlink.org.cn/aweqv/jueji）替换
 2.提高代理加载稳定性。
 3.所有二进制都支持本地运行
-
-
-
 
 
 近期更新
