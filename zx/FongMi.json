@@ -52,7 +52,7 @@
 			"ext": {
 				"siteUrl": "http://127.0.0.1:9999",
 				"count": 4,
-				"channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				"channelUsername": "Q66Share,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,oneonefivewpfx,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,zaihuayun,PanjClub,NewQuark,Mbox115,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,alyp_1",
 				"commonConfig": "./json/peizhi.json",
 				"filter": "./json/douban.json"
 			}
@@ -259,7 +259,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://www.mogg.top",
+				"siteUrl": "http://www.muoupan.top/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -272,7 +272,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://www.wogg.net/",
+				"siteUrl": "https://woggpan.333232.xyz/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -298,7 +298,7 @@
 			"filterable": 0,
 			"switchable": 0,
 			"ext": {
-				"siteUrl": "https://mlink.cc/520TV",
+				"siteUrl": "https://e.star2.cn/",
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
@@ -369,7 +369,7 @@
 			"switchable": 0,
 			"ext": {
 				"count": 4,
-				"channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				"channelUsername": "Q66Share,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,oneonefivewpfx,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,zaihuayun,PanjClub,NewQuark,Mbox115,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,alyp_1",
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
