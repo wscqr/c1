@@ -231,14 +231,6 @@
 			"ext": "./lib/tokenm.json$$$./lib/sambashare.txt"
 		},
 		{
-			"key": "直播转点播",
-			"name": "🐼️┃电视┃直播",
-			"type": 3,
-			"searchable": 0,
-			"api": "./lib/live2vod.js",
-			"ext": "./lib/feimaolive.json"
-		},
-		{
 			"key": "FirstAid",
 			"name": "🚑 急救知识 ",
 			"type": 3,
@@ -250,18 +242,6 @@
 				"type": "rect",
 				"ratio": 3.8
 			}
-		},
-		{
-			"key": "drpy_js_磁力熊",
-			"name": "磁力熊[js]|索引",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/cilixiongp.js",
-			"playerType": 1,
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 1,
-			"indexs": 1
 		},
 		{
 			"key": "bili",
@@ -525,7 +505,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"
+			"ext": "./lib/tokenm.json$$$http://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"
 		},
 		{
 			"key": "FourKFM",
@@ -547,7 +527,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+			"ext": "./lib/tokenm.json$$$http://xzyshd.com$$$proxy$$$1"
 		},
 		{
 			"key": "Wogg",
@@ -558,7 +538,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+			"ext": "./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
 		},
 		{
 			"key": "yydsys",
@@ -569,7 +549,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"
+			"ext": "./lib/tokenm.json$$$http://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"
 		},
 		{
 			"key": "蜡笔网盘",
@@ -580,7 +560,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+			"ext": "./lib/tokenm.json$$$http://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
 		},
 		{
 			"key": "Mogg",
@@ -613,7 +593,18 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
+			"ext": "./lib/tokenm.json$$$http://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
+		},
+		{
+			"key": "Guazi",
+			"name": "瓜子|App",
+			"type": 3,
+			"api": "csp_Guazi",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": ""
 		},
 		{
 			"key": "Moli",
@@ -624,7 +615,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
+			"ext": "./lib/tokenm.json$$$http://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
 		},
 		{
 			"key": "Ppxzy",
@@ -635,7 +626,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
+			"ext": "./lib/tokenm.json$$$http://ppxzy.ink$$$proxy$$$1"
 		},
 		{
 			"key": "ddys",
@@ -646,7 +637,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
+			"ext": "./lib/tokenm.json$$$http://ddys.pro/$$$proxy$$$1$$$"
 		},
 		{
 			"key": "美剧迷",
@@ -657,7 +648,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 120,
-			"ext": "./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
+			"ext": "./lib/tokenm.json$$$http://www.meijumi.net/$$$proxy$$$1"
 		},
 		{
 			"key": "Libvio",
@@ -668,7 +659,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
+			"ext": "./lib/tokenm.json$$$http://www.libvio.fun/$$$null"
 		},
 		{
 			"key": "Bt0",
@@ -740,6 +731,7 @@
 			"timeout": 60,
 			"ext": "./lib/token.json$$$https://wp.huban.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$U_HUBAN"
 		},
+
 		{
 			"key": "YunPan",
 			"name": "云盘资源|网盘",
@@ -1426,9 +1418,29 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
+		},
+		{
+			"key": "直播转点播",
+			"name": "🐼️┃电视┃直播",
+			"type": 3,
+			"searchable": 0,
+			"api": "./lib/live2vod.js",
+			"ext": "./lib/feimaolive.json"
 		}
 	],
 	"lives": [{
+			"name": "最强国内直播(合并版)",
+			"type": 0,
+			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u",
+			"ua": "okhttp/3.15",
+			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+			"catchup": {
+				"type": "append",
+				"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+			}
+		},
+		{
 			"name": "最强国内直播",
 			"type": 0,
 			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
@@ -1450,90 +1462,6 @@
 			"catchup": {
 				"type": "append",
 				"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-			}
-		},
-		{
-			"name": "最强CIPTV",
-			"type": 0,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-			"catchup": {
-				"type": "append",
-				"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
-			}
-		},
-		{
-			"name": "最强CIPTV(-1天回看)",
-			"type": 0,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
-			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-			"catchup": {
-				"type": "append",
-				"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
-			}
-		},
-		{
-			"name": "最强CIPTV(-2天回看)",
-			"type": 0,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE2SUB",
-			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-			"catchup": {
-				"type": "append",
-				"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
-			}
-		},
-		{
-			"name": "最强CIPTV(-3天回看)",
-			"type": 0,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE3SUB",
-			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-			"catchup": {
-				"type": "append",
-				"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
-			}
-		},
-		{
-			"name": "最强CIPTV(-4天回看)",
-			"type": 0,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE4SUB",
-			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-			"catchup": {
-				"type": "append",
-				"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
-			}
-		},
-		{
-			"name": "最强CIPTV(-5天回看)",
-			"type": 0,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE5SUB",
-			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-			"catchup": {
-				"type": "append",
-				"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
-			}
-		},
-		{
-			"name": "最强CIPTV(-6天回看)",
-			"type": 0,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-			"ua": "okhttp/3.15",
-			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE6SUB",
-			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-			"catchup": {
-				"type": "append",
-				"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
 			}
 		},
 		{
@@ -1608,6 +1536,30 @@
 			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
+			"name": "肥羊MG赛事直播",
+			"type": 0,
+			"url": "http://127.0.0.1:10079/c/60/null/http://127.0.0.1:35456/miguevent.m3u",
+			"ua": "okhttp/3.15",
+			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "肥羊TX赛事直播",
+			"type": 0,
+			"url": "http://127.0.0.1:10079/c/60/null/http://127.0.0.1:35456/txevent.m3u",
+			"ua": "okhttp/3.15",
+			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "肥羊QY赛事直播",
+			"type": 0,
+			"url": "http://127.0.0.1:10079/c/60/null/http://127.0.0.1:35456/iqyevent.m3u",
+			"ua": "okhttp/3.15",
+			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
 			"name": "肥羊B站直播",
 			"type": 0,
 			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bililive.m3u",
@@ -1635,6 +1587,14 @@
 			"name": "肥羊YY轮播",
 			"type": 0,
 			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/yylunbo.m3u",
+			"ua": "okhttp/3.15",
+			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "YTB直播",
+			"type": 0,
+			"url": "./lib/ytblive.m3u",
 			"ua": "okhttp/3.15",
 			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
