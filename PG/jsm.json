@@ -299,6 +299,20 @@
 			}
 		},
 		{
+			"key": "YiSo阿里",
+			"name": "😹易搜┃阿狸",
+			"type": 3,
+			"api": "csp_YiSo",
+			"jar": "./f.txt",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": {
+				"Cloud-drive": "tvfan/Cloud-drive.txt",
+				"from": "4k|auto"
+			}
+		},
+		{
 			"key": "纸条",
 			"name": "纸条|网盘搜索",
 			"type": 3,
