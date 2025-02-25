@@ -299,6 +299,50 @@
 			}
 		},
 		{
+			"key": "讴歌网盘",
+			"name": "讴歌|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$OUGE"
+		},
+		{
+			"key": "六趣网盘",
+			"name": "六趣|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://wp.0v.fit$$$noproxy$$$1$$$./lib/wogg.json$$$LIUQU"
+		},
+		{
+			"key": "下饭网盘",
+			"name": "下饭|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://txfyyds.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAFAN"
+		},
+		{
+			"key": "UC小米网盘",
+			"name": "UC小米|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://45.207.212.215:12121$$$noproxy$$$1$$$./lib/wogg.json$$$UCXIAOMI"
+		},
+		{
 			"key": "Guanying",
 			"name": "观影|网盘|磁力",
 			"type": 3,
