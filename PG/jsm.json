@@ -299,218 +299,6 @@
 			}
 		},
 		{
-			"key": "YiSo阿里",
-			"name": "😹易搜┃阿狸",
-			"type": 3,
-			"api": "csp_YiSo",
-			"jar": "./f.txt",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
-		},
-		{
-			"key": "纸条",
-			"name": "纸条|网盘搜索",
-			"type": 3,
-			"api": "csp_XiaoZhiTiao",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$null$$$proxy"
-		},
-		{
-			"key": "欧歌网盘",
-			"name": "欧歌|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "肥猫网盘",
-			"name": "肥猫|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.mucpan.cc/g$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "表哥网盘",
-			"name": "表哥|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "老哥网盘",
-			"name": "老哥|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "蜡笔网盘",
-			"name": "蜡笔|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://duopan.fun$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "木偶网盘",
-			"name": "木偶|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://www.mogg.top$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "六趣网盘",
-			"name": "六趣|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://wp.0v.fit$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "下饭网盘",
-			"name": "下饭|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://txfyyds.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "多多网盘",
-			"name": "多多|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://tv.yydsys.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "闪电网盘",
-			"name": "闪电|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://1.95.79.193$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "白嫖网盘",
-			"name": "白嫖|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://smdyo.top$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "虎斑网盘",
-			"name": "虎斑|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://103.45.162.207:20720$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "UC小米网盘",
-			"name": "UC小米|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://45.207.212.215:12121$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "至臻网盘",
-			"name": "至臻|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
-			"key": "土 豆 网盘",
-			"name": "土 豆|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://dcyun.cc$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-
-		{
-			"key": "奥秘网盘",
-			"name": "奥秘|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		}, {
-			"key": "云星网盘",
-			"name": "云星|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://4k.4u4.cn$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
-		},
-		{
 			"key": "Guanying",
 			"name": "观影|网盘|磁力",
 			"type": 3,
@@ -519,7 +307,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"
+			"ext": "./lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"
 		},
 		{
 			"key": "FourKFM",
@@ -541,7 +329,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://xzyshd.com$$$proxy$$$1"
+			"ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
 		},
 		{
 			"key": "Wogg",
@@ -563,7 +351,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"
+			"ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"
 		},
 		{
 			"key": "蜡笔网盘",
@@ -574,7 +362,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+			"ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
 		},
 		{
 			"key": "Mogg",
@@ -585,7 +373,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://www.mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
+			"ext": "./lib/tokenm.json$$$http://tv.91muou.icu/$$$proxy$$$1$$$./lib/wogg.json$$$MOGG"
 		},
 		{
 			"key": "Xiaomi",
@@ -596,7 +384,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+			"ext": "./lib/tokenm.json$$$https://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
 		},
 		{
 			"key": "至臻|网盘",
@@ -607,7 +395,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
+			"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
 		},
 		{
 			"key": "Guazi",
@@ -629,7 +417,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
+			"ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
 		},
 		{
 			"key": "Ppxzy",
@@ -640,7 +428,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://ppxzy.ink$$$proxy$$$1"
+			"ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
 		},
 		{
 			"key": "ddys",
@@ -651,7 +439,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://ddys.pro/$$$proxy$$$1$$$"
+			"ext": "./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
 		},
 		{
 			"key": "美剧迷",
@@ -662,7 +450,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 120,
-			"ext": "./lib/tokenm.json$$$http://www.meijumi.net/$$$proxy$$$1"
+			"ext": "./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
 		},
 		{
 			"key": "Libvio",
@@ -673,7 +461,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://www.libvio.fun/$$$null"
+			"ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
 		},
 		{
 			"key": "Bt0",
@@ -745,7 +533,6 @@
 			"timeout": 60,
 			"ext": "./lib/token.json$$$https://wp.huban.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$U_HUBAN"
 		},
-
 		{
 			"key": "YunPan",
 			"name": "云盘资源|网盘",
@@ -1479,9 +1266,9 @@
 			}
 		},
 		{
-			"name": "肥羊咪咕电视直播",
+			"name": "BIPTV(IPV6)",
 			"type": 0,
-			"url": "http://127.0.0.1:10079/c/1800/null/http://127.0.0.1:35456/migu.m3u",
+			"url": "./lib/biptv.txt",
 			"ua": "okhttp/3.15",
 			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -1712,6 +1499,29 @@
 				"149.112.112.112"
 			]
 		}
+	],
+	"proxy": [
+		"raw.githubusercontent.com",
+		"googlevideo.com",
+		"cdn.v82u1l.com",
+		"cdn.iz8qkg.com",
+		"cdn.kin6c1.com",
+		"c.biggggg.com",
+		"c.olddddd.com",
+		"haiwaikan.com",
+		"www.histar.tv",
+		"youtube.com",
+		"uhibo.com",
+		".*boku.*",
+		".*nivod.*",
+		".*ulivetv.*"
+	],
+	"hosts": [
+		"cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+		"cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+		"cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+		"cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+		"cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
 	],
 	"rules": [{
 			"name": "proxy",
