@@ -299,6 +299,50 @@
 			}
 		},
 		{
+			"key": "土豆网盘",
+			"name": "土豆|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://dcyun.cc$$$noproxy$$$1$$$./lib/wogg.json$$$TUDOU"
+		},
+		{
+			"key": "闪电网盘",
+			"name": "闪电|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://1.95.79.193$$$noproxy$$$1$$$./lib/wogg.json$$$SANDIAN"
+		},
+		{
+			"key": "肥猫网盘",
+			"name": "肥猫|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$FEIMAO"
+		},
+		{
+			"key": "多多网盘",
+			"name": "多多|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://tv.yydsys.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$DUODUO"
+		},
+		{
 			"key": "讴歌网盘",
 			"name": "讴歌|网盘",
 			"type": 3,
