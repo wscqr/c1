@@ -299,6 +299,17 @@
 			}
 		},
 		{
+			"key": "二小网盘",
+			"name": "二小|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://xhww.net/$$$noproxy$$$1$$$./lib/wogg.json$$$ERXIAO"
+		},
+		{
 			"key": "土豆网盘",
 			"name": "土豆|网盘",
 			"type": 3,
