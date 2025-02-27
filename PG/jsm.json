@@ -365,6 +365,17 @@
 			"ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$OUGE"
 		},
 		{
+			"key": "讴歌夸网盘",
+			"name": "讴歌夸|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://ogkk.xn--dkw.xn--6qq986b3xl$$$noproxy$$$1$$$./lib/wogg.json$$$OUGE夸"
+		},
+		{
 			"key": "六趣网盘",
 			"name": "六趣|网盘",
 			"type": 3,
