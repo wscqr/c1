@@ -173,32 +173,6 @@
 			}
 		},
 		{
-			"key": "玩偶 | 奥秘",
-			"name": "玩偶 | 奥秘",
-			"type": 3,
-			"api": "csp_kongbai",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": {
-				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://vip.omii.top",
-				"filter": "./json/wogg.json"
-			}
-		},
-		{
-			"key": "玩偶 | 云星",
-			"name": "玩偶 | 云星",
-			"type": 3,
-			"api": "csp_kongbai",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": {
-				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://4k.4u4.cn",
-				"filter": "./json/wogg.json"
-			}
-		},
-		{
 			"key": "玩偶 | 闪电uc",
 			"name": "玩偶 | 闪电uc",
 			"type": 3,
@@ -208,6 +182,19 @@
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
 				"siteUrl": "http://1.95.79.193/",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
+			"key": "玩偶 | 二小",
+			"name": "玩偶 | 二小",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "https://erxiaofn.click/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -272,7 +259,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://wogg.xxooo.cf/",
+				"siteUrl": "https://woggpan.333232.xyz/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -298,7 +285,7 @@
 			"filterable": 0,
 			"switchable": 0,
 			"ext": {
-				"siteUrl": "https://e.star2.cn/",
+				"siteUrl": "https://star.banye.tech:7086/",
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
