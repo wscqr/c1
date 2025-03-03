@@ -209,7 +209,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/七新电影网.js"
 		},
-	        {
+		{
 			"key": "hipy_js_网飞啦[自动]",
 			"name": "网飞啦[自动](drpy_t3)",
 			"type": 3,
@@ -220,7 +220,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/网飞啦[自动].js"
 		},
-	        {
+		{
 			"key": "hipy_js_剧迷",
 			"name": "剧迷(drpy_t3)",
 			"type": 3,
@@ -831,7 +831,66 @@
 				}
 			}
 		},
-
+		{
+			"name": "qiyi[官源]",
+			"type": 1,
+			"url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
+		},
+		{
+			"name": "肥猫最可爱",
+			"type": 1,
+			"url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"tucheng",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"yzm",
+					"aliyun",
+					"RJuMao",
+					"bilibili",
+					"1905",
+					"xinvip",
+					"XAL",
+					"qiqi",
+					"XALS",
+					"YuMi-vip"
+				]
+			}
+		},
+		{
+			"name": "1",
+			"type": 1,
+			"url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+		},
+		{
+			"name": "2",
+			"type": 1,
+			"url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+		},
+		{
+			"name": "3",
+			"type": 1,
+			"url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+		},
+		{
+			"name": "4",
+			"type": 1,
+			"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+		},
 		{
 			"name": "红狐",
 			"url": "https://player.mrgaocloud.com/player/?url=",
