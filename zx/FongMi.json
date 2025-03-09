@@ -181,7 +181,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://shandian.banye.tech:7086",
+				"siteUrl": "http://1.95.79.193/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -233,7 +233,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://labi.banye.tech:7086",
+				"siteUrl": "https://labipan.com/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -246,7 +246,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://mogg.banye.tech:7086",
+				"siteUrl": "http://127.0.0.1:9966/api/proxy/https://mo.666291.xyz/",
 				"filter": "./json/wogg.json"
 			}
 		},
