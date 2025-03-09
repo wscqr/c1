@@ -77,7 +77,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://wp.0v.fit",
+				"siteUrl": "https://liuqu.banye.tech:7086",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -116,20 +116,20 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://woog.nxog.eu.org",
+				"siteUrl": "https://ouge.banye.tech:7086",
 				"filter": "./json/wogg.json"
 			}
 		},
 		{
-			"key": "玩偶 | 土豆",
-			"name": "玩偶 | 土豆",
+			"key": "玩偶 | 百家",
+			"name": "玩偶 | 百家",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://dcyun.cc",
+				"siteUrl": "http://cj.jiexi.news",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -142,7 +142,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://txfyyds.top/",
+				"siteUrl": "https://xiafan.banye.tech:7086",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -155,7 +155,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://mihdr.top",
+				"siteUrl": "https://zhizhen.banye.tech:7086",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -181,7 +181,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://1.95.79.193/",
+				"siteUrl": "https://shandian.banye.tech:7086",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -233,7 +233,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://labipan.com/",
+				"siteUrl": "https://labi.banye.tech:7086",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -246,7 +246,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://127.0.0.1:9966/api/proxy/https://mo.666291.xyz/",
+				"siteUrl": "https://mogg.banye.tech:7086",
 				"filter": "./json/wogg.json"
 			}
 		},
