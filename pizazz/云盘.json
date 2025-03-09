@@ -140,7 +140,7 @@
 				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site": "http://1.95.79.193",
+				"site": "https://shandian.banye.tech:7086",
 				"danmu": true
 			}
 		},
@@ -157,7 +157,7 @@
 				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site": "https://woog.nxog.eu.org",
+				"site": "https://ouge.banye.tech:7086",
 				"danmu": true
 			}
 		},
@@ -173,7 +173,7 @@
 				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site": "http://ucmi.fun",
+				"site": "https://xiaomi.banye.tech:7086",
 				"danmu": true
 			}
 		},
@@ -189,7 +189,7 @@
 				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site": "https://tv.yydsys.top",
+				"site": "https://duoduo.banye.tech:7086",
 				"danmu": true
 			}
 		},
@@ -205,7 +205,7 @@
 				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site": "http://feimaoai.site",
+				"site": "https://labi.banye.tech:7086",
 				"danmu": true
 			}
 		},
@@ -221,7 +221,7 @@
 				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site": "https://xiaomiai.site",
+				"site": "https://zhizhen.banye.tech:7086",
 				"danmu": true
 			}
 		},
@@ -253,7 +253,7 @@
 				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site": "http://www.mogg.top",
+				"site": "https://mogg.banye.tech:7086",
 				"danmu": true
 			}
 		},
@@ -270,7 +270,7 @@
 				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site": "https://wp.0v.fit",
+				"site": "https://liuqu.banye.tech:7086",
 				"danmu": true
 			}
 		},
@@ -308,8 +308,8 @@
 			}
 		},
 		{
-			"key": "夸克虎斑弹幕",
-			"name": "虎斑｜4K弹幕",
+			"key": "二小弹幕",
+			"name": "二小｜4K弹幕",
 			"type": 3,
 			"api": "csp_Wobg",
 			"quickSearch": 1,
@@ -319,7 +319,7 @@
 				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site": "http://103.45.162.207:20720",
+				"site": "https://enxiao.banye.tech:7086",
 				"danmu": true
 			}
 		},
@@ -336,6 +336,22 @@
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
 				"site": "http://txfyyds.top",
+				"danmu": true
+			}
+		},
+		{
+			"key": "夸克百家弹幕",
+			"name": "百家｜4K弹幕",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"ext": {
+				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+				"site": "http://cj.jiexi.news",
 				"danmu": true
 			}
 		},
