@@ -310,15 +310,15 @@
 			"ext": "./lib/tokenm.json$$$https://xhww.net/$$$noproxy$$$1$$$./lib/wogg.json$$$ERXIAO"
 		},
 		{
-			"key": "土豆网盘",
-			"name": "土豆|网盘",
+			"key": "百家网盘",
+			"name": "百家|网盘",
 			"type": 3,
 			"api": "csp_Wobg",
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://dcyun.cc$$$noproxy$$$1$$$./lib/wogg.json$$$TUDOU"
+			"ext": "./lib/tokenm.json$$$http://cj.jiexi.news$$$noproxy$$$1$$$./lib/wogg.json$$$BAIJIA"
 		},
 		{
 			"key": "闪电网盘",
