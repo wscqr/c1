@@ -11,7 +11,7 @@
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
 		{
-			"key": "TGDouban",
+			"key": "TGDouban111",
 			"name": "TG豆瓣",
 			"type": 3,
 			"api": "csp_TGDouban",
