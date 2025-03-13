@@ -20,9 +20,9 @@
 				"token": "./lib/tokenm.json",
 				"json": "./lib/tgsearch.json",
 				"keywords": "名称,片名,推荐",
-				"tgsearch_url": "http://127.0.0.1:10199",
-				"tgsearch_media_url": "http://127.0.0.1:10199",
-				"channellist": "leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+				"tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+				"tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+				"channellist": "leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
 				"proxy": "noproxy",
 				"douban": "./lib/douban.json",
 				"danmu": true
@@ -483,7 +483,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://tv.91muou.icu/$$$proxy$$$1$$$./lib/wogg.json$$$MOGG"
+			"ext": "./lib/tokenm.json$$$http://tv.91muou.icu/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
 		},
 		{
 			"key": "Xiaomi",
@@ -643,6 +643,7 @@
 			"timeout": 60,
 			"ext": "./lib/token.json$$$https://wp.huban.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$U_HUBAN"
 		},
+
 		{
 			"key": "YunPan",
 			"name": "云盘资源|网盘",
