@@ -53,7 +53,7 @@
 				"siteUrl": "http://tgsou.fish2018.ip-ddns.com",
 				"count": 4,
 				"channelUsername": "tgsearchers,pan123pan,zyfb123,zyzhpd123,xx123pan,ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-				"commonConfig": "./json/peizhi.json",
+				"commonConfig": "file://1/zx/json/peizhi.json",
 				"filter": "./json/douban.json"
 			}
 		},
