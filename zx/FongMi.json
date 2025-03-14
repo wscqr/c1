@@ -1,5 +1,5 @@
 {
-	"spider": "./custom_spider.jar;md5;d0f8ccbac648adae93854a55e86cd1c1",
+	"spider": "./custom_spider.jar;md5;ecd0ebbde75ff6c71c59413ae58f3fb7",
 	"wallpaper": "https://bing.img.run/rand.php",
 	"lives": [{
 			"name": "feiyang.allinone",
@@ -330,9 +330,8 @@
 			"switchable": 0,
 			"ext": {
 				"count": 4,
-				"channelUsername": "tgsearchers,guaguale115,Q66Share,share_aliyun,yppan,ydypzyfx,shareAliyun,ucpanpan,ucquark,alyp_1,hao115,Aliyun_4K_Movies",
-				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://tgsou.fish2018.ip-ddns.com"
+				"channelUsername": "xx123pan,Q66Share,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,oneonefivewpfx,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,zaihuayun,PanjClub,NewQuark,Mbox115,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,alyp_1",
+				"commonConfig": "./json/peizhi.json"
 			}
 		},
 		{
@@ -361,6 +360,7 @@
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
+
 		{
 			"key": "易搜",
 			"name": "易搜 | 4K",
@@ -417,6 +417,7 @@
 				"commonConfig": "./json/peizhi.json"
 			}
 		},
+
 		{
 			"key": "360资源",
 			"name": "360资源-采集",
@@ -562,6 +563,5 @@
 			"*.t4tv.hz.cz",
 			".*ulivetv.*"
 		]
-	}],
-	"logo": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/zx.gif"
+	}]
 }
