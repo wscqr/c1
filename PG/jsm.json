@@ -299,6 +299,27 @@
 			}
 		},
 		{
+			"key": "TGYunPan189",
+			"name": "TG189盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://tg2.fish2018.ip-ddns.com",
+				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
+				"channellist": "tianyirigeng|1000,tianyi_pd2|1000,tyypzhpd|1000,cloudtianyi|1000,kuakeclound|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
 			"key": "TGYunPan123",
 			"name": "TG123盘搜索",
 			"type": 3,
@@ -311,6 +332,27 @@
 				"tgsearch_url": "http://tg2.fish2018.ip-ddns.com",
 				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
 				"channellist": "pan123pan|1000,zyfb123|1000,zyzhpd123|1000,xx123pan|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
+			"key": "TGYunPan阿里",
+			"name": "TG阿里盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://tg2.fish2018.ip-ddns.com",
+				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
+				"channellist": "NewAliPan|1000,aliyun|1000,zaihuayun|1000,shareAliyun|1000,Aliyun_4K_Movies|1000",
 				"proxy": "noproxy",
 				"danmu": true
 			},
