@@ -110,6 +110,28 @@
 			"order_num": 1,
 			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
 		},
+		        {
+            "key": "奇异",
+            "name": "奇异｜PY",
+            "type": 3,
+            "api": "./py/py_爱.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+		        {
+            "key": "西瓜影视",
+            "name": "西瓜｜PY",
+            "type": 3,
+            "api": "./py/py_xigua.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
 		{
 			"key": "hipy_js_黑狐影院",
 			"name": "黑狐影院(drpy_t3)",
