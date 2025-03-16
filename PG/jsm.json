@@ -299,6 +299,27 @@
 			}
 		},
 		{
+			"key": "TGYunPan123",
+			"name": "TG123盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://tg2.fish2018.ip-ddns.com",
+				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
+				"channellist": "pan123pan|1000,zyfb123|1000,zyzhpd123|1000,xx123pan|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
 			"key": "二小网盘",
 			"name": "二小|网盘",
 			"type": 3,
