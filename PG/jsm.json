@@ -11,7 +11,7 @@
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
 		{
-			"key": "TGDouban111",
+			"key": "TGDouban",
 			"name": "TG豆瓣",
 			"type": 3,
 			"api": "csp_TGDouban",
@@ -20,8 +20,8 @@
 				"token": "./lib/tokenm.json",
 				"json": "./lib/tgsearch.json",
 				"keywords": "名称,片名,推荐",
-				"tgsearch_url": "http://tg.fish2018.ip-ddns.com",
-				"tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+				"tgsearch_url": "http://127.0.0.1:10199",
+				"tgsearch_media_url": "http://127.0.0.1:10199",
 				"channellist": "leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
 				"proxy": "noproxy",
 				"douban": "./lib/douban.json",
@@ -266,9 +266,9 @@
 				"token": "./lib/tokenm.json",
 				"json": "./lib/tgsearch.json",
 				"keywords": "名称,片名,推荐",
-				"tgsearch_url": "http://tg.fish2018.ip-ddns.com",
-				"tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
-				"channellist": "leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+				"tgsearch_url": "http://127.0.0.1:10199",
+				"tgsearch_media_url": "http://127.0.0.1:10199",
+				"channellist": "leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
 				"proxy": "proxy",
 				"danmu": true
 			},
@@ -287,8 +287,8 @@
 				"token": "./lib/tokenm.json",
 				"json": "./lib/tgsearch.json",
 				"keywords": "名称,片名,推荐",
-				"tgsearch_url": "http://tg.fish2018.ip-ddns.com",
-				"tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+				"tgsearch_url": "http://127.0.0.1:10199",
+				"tgsearch_media_url": "http://127.0.0.1:10199",
 				"channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
 				"proxy": "noproxy",
 				"danmu": true
@@ -483,7 +483,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://tv.91muou.icu/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
+			"ext": "./lib/tokenm.json$$$http://tv.91muou.icu/$$$proxy$$$1$$$./lib/wogg.json$$$MOGG"
 		},
 		{
 			"key": "Xiaomi",
