@@ -362,27 +362,6 @@
 			}
 		},
 		{
-			"key": "TGYunPan阿里",
-			"name": "TG阿里盘搜索",
-			"type": 3,
-			"api": "csp_TGYunPan",
-			"timeout": 120,
-			"ext": {
-				"token": "./lib/tokenm.json",
-				"json": "./lib/tgsearch.json",
-				"keywords": "名称,片名,推荐",
-				"tgsearch_url": "http://tg2.fish2018.ip-ddns.com",
-				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
-				"channellist": "NewAliPan|1000,aliyun|1000,zaihuayun|1000,shareAliyun|1000,Aliyun_4K_Movies|1000,shareAliyun|1000,yppan|1000,Q66Share|1000",
-				"proxy": "noproxy",
-				"danmu": true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-		 {
 			"key": "TGYunPan迅雷",
 			"name": "TG迅雷搜索",
 			"type": 3,
@@ -395,6 +374,48 @@
 				"tgsearch_url": "http://tg2.fish2018.ip-ddns.com",
 				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
 				"channellist": "xlshare|1000,xunleiyunpan|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
+			"key": "TGYunPanUC",
+			"name": "TGUC盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://tg2.fish2018.ip-ddns.com",
+				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
+				"channellist": "ucwpzy|1000,ucpanpan|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
+			"key": "TGYunPan阿里",
+			"name": "TG阿里盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://tg2.fish2018.ip-ddns.com",
+				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
+				"channellist": "NewAliPan|1000,aliyun|1000,zaihuayun|1000,shareAliyun|1000,Aliyun_4K_Movies|1000,shareAliyun|1000,yppan|1000,Q66Share|1000",
 				"proxy": "noproxy",
 				"danmu": true
 			},
