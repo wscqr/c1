@@ -373,7 +373,7 @@
 				"keywords": "名称,片名,推荐",
 				"tgsearch_url": "http://127.0.0.1:10199",
 				"tgsearch_media_url": "http://127.0.0.1:10199",
-				"channellist": "xlshare|1000,xunleiyunpan|1000",
+				"channellist": "xlshare|1000,xunleiyunpan|1000,yunpanxunlei|1000",
 				"proxy": "noproxy",
 				"danmu": true
 			},
@@ -394,7 +394,7 @@
 				"keywords": "名称,片名,推荐",
 				"tgsearch_url": "http://127.0.0.1:10199",
 				"tgsearch_media_url": "http://127.0.0.1:10199",
-				"channellist": "ucwpzy|1000,ucpanpan|1000",
+				"channellist": "ucwpzy|1000,ucpanpan|1000,yunpanuc|1000",
 				"proxy": "noproxy",
 				"danmu": true
 			},
