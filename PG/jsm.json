@@ -513,6 +513,28 @@
 			"ext": "./lib/tokenm.json$$$https://wp.0v.fit$$$noproxy$$$1$$$./lib/wogg.json$$$LIUQU"
 		},
 		{
+			"key": "叔叔网盘",
+			"name": "玩偶叔叔|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://woss.fenwe.eu.org/$$$noproxy$$$1$$$./lib/wogg.json$$$SHUSHU"
+		},
+		{
+			"key": "大玩偶网盘",
+			"name": "大玩偶|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://149.88.87.18:6688/$$$noproxy$$$1$$$./lib/wogg.json$$$DAWANOU"
+		},
+		{
 			"key": "下饭网盘",
 			"name": "下饭|网盘",
 			"type": 3,
