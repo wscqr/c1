@@ -425,6 +425,15 @@
 			}
 		},
 		{
+			"key": "移动",
+			"name": "移动｜APP",
+			"type": 3,
+			"api": "csp_YD",
+			"searchable": 1,
+			"quickSearch": 1,
+			"jar": "./spider.jar"
+		},
+		{
 			"key": "二小网盘",
 			"name": "二小|网盘",
 			"type": 3,
