@@ -308,8 +308,8 @@
 				"token": "./lib/tokenm.json",
 				"json": "./lib/tgsearch.json",
 				"keywords": "名称,片名,推荐",
-				"tgsearch_url": "http://127.0.0.1:10199",
-				"tgsearch_media_url": "http://127.0.0.1:10199",
+				"tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
 				"channellist": "tianyirigeng|1000,tianyi_pd2|1000,tyypzhpd|1000,cloudtianyi|1000,kuakeclound|1000",
 				"proxy": "noproxy",
 				"danmu": true
@@ -350,8 +350,8 @@
 				"token": "./lib/tokenm.json",
 				"json": "./lib/tgsearch.json",
 				"keywords": "名称,片名,推荐",
-				"tgsearch_url": "http://127.0.0.1:10199",
-				"tgsearch_media_url": "http://127.0.0.1:10199",
+				"tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+				"tgsearch_media_url": "http://tg3.fish2018.ip-ddns.com",
 				"channellist": "pan123pan|1000,zyfb123|1000,zyzhpd123|1000,xx123pan|1000",
 				"proxy": "noproxy",
 				"danmu": true
