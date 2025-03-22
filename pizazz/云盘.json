@@ -257,6 +257,38 @@
 			}
 		},
 		{
+			"key": "夸克叔叔弹幕",
+			"name": "叔叔｜4K弹幕",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"ext": {
+				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+				"site": "https://woss.fenwe.eu.org",
+				"danmu": true
+			}
+		},
+		{
+			"key": "夸克大玩弹幕",
+			"name": "大玩｜4K弹幕",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"ext": {
+				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+				"site": "http://149.88.87.18:6688",
+				"danmu": true
+			}
+		},
+		{
 			"key": "雷鲸",
 			"name": "雷鲸｜4K",
 			"type": 3,
