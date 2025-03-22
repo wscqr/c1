@@ -1,5 +1,5 @@
 {
-	"spider": "./custom_spider.jar;md5;ecd0ebbde75ff6c71c59413ae58f3fb7",
+	"spider": "./custom_spider.jar",
 	"wallpaper": "https://bing.img.run/rand.php",
 	"lives": [{
 			"name": "feiyang.allinone",
