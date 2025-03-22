@@ -415,7 +415,7 @@
 				"keywords": "名称,片名,推荐",
 				"tgsearch_url": "http://127.0.0.1:10199",
 				"tgsearch_media_url": "http://127.0.0.1:10199",
-				"channellist": "NewAliPan|1000,aliyun|1000,zaihuayun|1000,shareAliyun|1000,Aliyun_4K_Movies|1000,shareAliyun|1000,yppan|1000,Q66Share|1000,dianyingshare|1000"，
+				"channellist": "NewAliPan|1000,aliyun|1000,zaihuayun|1000,shareAliyun|1000,Aliyun_4K_Movies|1000,shareAliyun|1000,shareAliyun|1000,yppan|1000,Q66Share|1000,dianyingshare|1000",
 				"proxy": "noproxy",
 				"danmu": true
 			},
