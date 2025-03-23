@@ -320,6 +320,48 @@
 			}
 		},
 		{
+			"key": "TGYunPan115",
+			"name": "TG115搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://127.0.0.1:10199",
+				"tgsearch_media_url": "http://127.0.0.1:10199",
+				"channellist": "shares_115|1000,hao115|1000,Mbox115|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
+			"key": "TGYunPan移动",
+			"name": "TG异动搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://127.0.0.1:10199",
+				"tgsearch_media_url": "http://127.0.0.1:10199",
+				"channellist": "ydypzyfx|1000,ydyp888|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
 			"key": "TGYunPan夸克",
 			"name": "TG夸克搜索",
 			"type": 3,
