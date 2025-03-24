@@ -10,17 +10,7 @@
 			"indexs": 1,
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
-		{
-			"key": "https://github.com/fish2018/PG",
-			"name": "202503231641",
-			"zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250323-1641.zip",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs": 1,
-			"ext": "./lib/douban.json"
-		},
+	
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
