@@ -95,6 +95,19 @@
 			}
 		},
 		{
+			"key": "玩偶 | 虎斑",
+			"name": "玩偶 |虎斑",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "https://huban.banye.tech:7086",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
 			"key": "玩偶 | 百家",
 			"name": "玩偶 | 百家",
 			"type": 3,
