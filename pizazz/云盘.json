@@ -289,6 +289,22 @@
 			}
 		},
 		{
+			"key": "夸克虎斑弹幕",
+			"name": "虎斑｜4K弹幕",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"ext": {
+				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+				"site": "https://huban.banye.tech:7086",
+				"danmu": true
+			}
+		},
+		{
 			"key": "雷鲸",
 			"name": "雷鲸｜4K",
 			"type": 3,
