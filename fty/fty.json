@@ -2,165 +2,162 @@
 	"spider": "./fty.txt;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
-			"key": "豆",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_DouDouGuard",
-			"indexs": 1,
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "玩偶",
-			"name": "👽玩偶哥哥┃4K弹幕",
-			"type": 3,
-			"api": "csp_WoGGGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto",
-				"siteUrl": "https://www.wogg.net/",
-				"danMu": "弹"
-			}
-		}, {
-			"key": "抠搜",
-			"name": "🍄抠抠┃搜搜",
-			"type": 3,
-			"api": "csp_KkSsGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
-		}, {
-			"key": "UC",
-			"name": "🌈优汐┃搜搜",
-			"type": 3,
-			"api": "csp_UuSsGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto",
-				"pturl": "http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"
-			}
-		}, {
-			"key": "PanSso",
-			"name": "🐌盘他┃三盘",
-			"type": 3,
-			"api": "csp_PanSsoGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
-		}, {
-			"key": "YpanSo",
-			"name": "🐟盘她┃三盘",
-			"type": 3,
-			"api": "csp_YpanSoGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
-		}, {
-			"key": "xzso",
-			"name": "👻盘它┃三盘",
-			"type": 3,
-			"api": "csp_XzsoGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
-		}, {
-			"key": "米搜",
-			"name": "🦋米搜┃夸父",
-			"type": 3,
-			"api": "csp_MIPanSoGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
-		}, {
-			"key": "夸搜",
-			"name": "😻夸搜┃夸父",
-			"type": 3,
-			"api": "csp_PanSearchGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"pan": "quark",
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
-		}, {
-			"key": "Aliso",
-			"name": "🙀盘搜┃阿狸",
-			"type": 3,
-			"api": "csp_PanSearchGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
-		}, {
-			"key": "YiSo",
-			"name": "😹易搜┃阿狸",
-			"type": 3,
-			"api": "csp_YiSoGuard",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
-		}, {
-			"key": "push_agent",
-			"name": "🛴手机┃推送",
-			"type": 3,
-			"api": "csp_PushGuard",
-			"searchable": 0,
-			"quickSearch": 0,
-			"ext": {
-				"Cloud-drive": "tvfan/Cloud-drive.txt",
-				"from": "4k|auto"
-			}
+		"key": "豆",
+		"name": "豆瓣",
+		"type": 3,
+		"api": "csp_DouDouGuard",
+		"indexs": 1,
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable": 0
+	}, {
+		"key": "玩偶",
+		"name": "👽玩偶哥哥┃4K弹幕",
+		"type": 3,
+		"api": "csp_WoGGGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto",
+			"siteUrl": "https://www.wogg.com/",
+			"danMu": "弹"
 		}
-	],
+	}, {
+		"key": "抠搜",
+		"name": "🍄抠抠┃搜搜",
+		"type": 3,
+		"api": "csp_KkSsGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}, {
+		"key": "UC",
+		"name": "🌈优汐┃搜搜",
+		"type": 3,
+		"api": "csp_UuSsGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}, {
+		"key": "PanSso",
+		"name": "🐌盘他┃三盘",
+		"type": 3,
+		"api": "csp_PanSsoGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}, {
+		"key": "YpanSo",
+		"name": "🐟盘她┃三盘",
+		"type": 3,
+		"api": "csp_YpanSoGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}, {
+		"key": "xzso",
+		"name": "👻盘它┃三盘",
+		"type": 3,
+		"api": "csp_XzsoGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}, {
+		"key": "米搜",
+		"name": "🦋米搜┃夸父",
+		"type": 3,
+		"api": "csp_MIPanSoGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}, {
+		"key": "夸搜",
+		"name": "😻夸搜┃夸父",
+		"type": 3,
+		"api": "csp_PanSearchGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"pan": "quark",
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}, {
+		"key": "Aliso",
+		"name": "🙀盘搜┃阿狸",
+		"type": 3,
+		"api": "csp_PanSearchGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}, {
+		"key": "YiSo",
+		"name": "😹易搜┃阿狸",
+		"type": 3,
+		"api": "csp_YiSoGuard",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}, {
+		"key": "push_agent",
+		"name": "🛴手机┃推送",
+		"type": 3,
+		"api": "csp_PushGuard",
+		"searchable": 0,
+		"quickSearch": 0,
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto"
+		}
+	}],
 	"logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
 	"lives": [{
-		"name": "牛播一（仅新版影视仓┃ok影视）",
-		"type": 0,
-		"url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-		"playerType": 1,
-		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo": "https://epg.v1.mk/logo/{name}.png"
-	}, {
 		"name": "V4聚合（卡顿请按左┃右键换线）",
 		"type": 0,
 		"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-		"playerType": 1
+		"playerType": 2,
+		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo": "https://epg.v1.mk/logo/{name}.png"
+	}, {
+		"name": "V6范明明",
+		"type": 0,
+		"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+		"playerType": 2
 	}, {
 		"name": "平台直播",
 		"type": 0,
