@@ -134,7 +134,7 @@
 				"keywords": "名称,片名,推荐",
 				"tgsearch_url": "https://tg.xueximeng.com",
 				"tgsearch_media_url": "https://tg.xueximeng.com",
-				"channellist": "tgsearchers",
+				"channellist": "tgsearchers,huachjp|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
 				"proxy": "proxy",
 				"danmu": true
 			},
@@ -155,7 +155,7 @@
 				"keywords": "名称,片名,推荐",
 				"tgsearch_url": "https://tg.xueximeng.com",
 				"tgsearch_media_url": "https://tg.xueximeng.com",
-				"channellist": "tgsearchers",
+				"channellist": "tgsearchers,,huachjp|1000,sm0051|1000,biaochezhidiSM|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
 				"proxy": "noproxy",
 				"danmu": true
 			},
