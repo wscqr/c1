@@ -41,7 +41,8 @@ var index_config_default = {
   },
   uc: {
     cookie: "",
-    token: ""
+    token: "",
+    ut:""
   },
   y115: {
     cookie: ""
@@ -102,7 +103,13 @@ var index_config_default = {
   m3u8cj: {
     ykm3u8: [{
       name: "360源",
-      url: "https://360zy.com/api.php/seaxml/vod/,",
+      url: "https://360zy.com/api.php/seaxml/vod/",
+      categories: [],
+      search: true
+    }],
+    doubanm3u8: [{
+      name: "豆瓣采集",
+      url: "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
       categories: [],
       search: true
     }],
