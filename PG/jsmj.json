@@ -22,7 +22,7 @@
 				"keywords": "名称,片名,推荐",
 				"tgsearch_url": "http://127.0.0.1:10199",
 				"tgsearch_media_url": "http://127.0.0.1:10199",
-				"channellist": "tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+				"channellist": "tgsearchers",
 				"proxy": "noproxy",
 				"douban": "./lib/douban.json",
 				"danmu": true
@@ -213,28 +213,6 @@
 			}
 		},
 		{
-			"key": "TGYunPan夸克",
-			"name": "TG资源宇宙",
-			"type": 3,
-			"api": "csp_TGYunPan",
-			"timeout": 120,
-			"ext": {
-				"token": "./lib/tokenm.json",
-				"json": "./lib/tgsearch.json",
-				"keywords": "名称,片名,推荐",
-				"tgsearch_url": "http://127.0.0.1:10199",
-				"tgsearch_media_url": "http://127.0.0.1:10199",
-				"channellist": "tgsearchers|1000",
-				"proxy": "noproxy",
-				"danmu": true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-
-		{
 			"key": "TGYunPan阿里",
 			"name": "TG阿里盘搜索",
 			"type": 3,
@@ -247,6 +225,48 @@
 				"tgsearch_url": "http://127.0.0.1:10199",
 				"tgsearch_media_url": "http://127.0.0.1:10199",
 				"channellist": "NewAliPan|1000,aliyun|1000,zaihuayun|1000,shareAliyun|1000,Aliyun_4K_Movies|1000,shareAliyun|1000,shareAliyun|1000,yppan|1000,Q66Share|1000,dianyingshare|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
+			"key": "TGYunPan123",
+			"name": "TG123盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://127.0.0.1:10199",
+				"tgsearch_media_url": "http://127.0.0.1:10199",
+				"channellist": "pan123pan|1000,zyfb123|1000,zyzhpd123|1000,xx123pan|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
+			"key": "TGYunPan189",
+			"name": "TG189盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://127.0.0.1:10199",
+				"tgsearch_media_url": "http://127.0.0.1:10199",
+				"channellist": "tianyirigeng|1000,tianyi_pd2|1000,tyypzhpd|1000,cloudtianyi|1000,kuakeclound|1000",
 				"proxy": "noproxy",
 				"danmu": true
 			},
