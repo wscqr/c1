@@ -405,7 +405,7 @@
 				"keywords": "名称,片名,推荐",
 				"tgsearch_url": "http://127.0.0.1:10199",
 				"tgsearch_media_url": "http://127.0.0.1:10199",
-				"channellist": "yunpanshare|1000,kduanju|1000,MCPH860|1000,wama520520|1000,QuarkFree|1000,Quark_Movies|1000,MCPH086|1000,NewQuark|1000,kuakeyun|1000,alyp_Animation|1000,alyp_TV|1000,alyp_1|1000,alyp_JLP|1000,alyp_4K_Movies|1000,vip115hot|1000"tgsearchers|1000",
+				"channellist": "yunpanshare|1000,kduanju|1000,MCPH860|1000,wama520520|1000,QuarkFree|1000,Quark_Movies|1000,MCPH086|1000,NewQuark|1000,kuakeyun|1000,alyp_Animation|1000,alyp_TV|1000,alyp_1|1000,alyp_JLP|1000,alyp_4K_Movies|1000,vip115hot|1000",
 				"proxy": "noproxy",
 				"danmu": true
 			},
