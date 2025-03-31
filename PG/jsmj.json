@@ -132,38 +132,7 @@
 				"ratio": 1.1
 			}
 		},
-		{
-			"key": "123Share",
-			"name": "123云盘分享",
-			"type": 3,
-			"api": "csp_P123Share",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 0,
-			"timeout": 120,
-			"ext": "./lib/tokenm.json$$$./lib/123share.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{
-			"key": "189Share",
-			"name": "189云盘分享",
-			"type": 3,
-			"api": "csp_P189Share",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 0,
-			"timeout": 120,
-			"ext": "./lib/tokenm.json$$$./lib/189share.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
+
 		{
 			"key": "ThunderShare",
 			"name": "迅雷云盘分享",
