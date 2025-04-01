@@ -577,17 +577,6 @@
 			"ext": "./lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"
 		},
 		{
-			"key": "Guanying",
-			"name": "观影|网盘|磁力",
-			"type": 3,
-			"api": "csp_Guanying",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"
-		},
-		{
 			"key": "FourKFM",
 			"name": "4K影库|网盘|磁力",
 			"type": 3,
