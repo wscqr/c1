@@ -24,7 +24,14 @@
 			}
 		},
 
-
+                {
+                         "key": "移动",
+                         "name": "移动｜APP",
+                         "type": 3,
+                         "api": "csp_YD",
+                         "searchable": 1,
+                         "quickSearch": 1
+                },
 		{
 			"key": "阿里云盘",
 			"name": "阿里｜云盘",
