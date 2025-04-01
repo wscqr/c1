@@ -253,7 +253,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://xhww.net/$$$noproxy$$$1$$$./lib/wogg.json$$$ERXIAO"
+			"ext": "./lib/tokenm.json$$$https://erxiao.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$ERXIAO"
 		},
 
 		{
@@ -265,7 +265,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://1.95.79.193$$$noproxy$$$1$$$./lib/wogg.json$$$SANDIAN"
+			"ext": "./lib/tokenm.json$$$https://shandian.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$SANDIAN"
 		},
 		{
 			"key": "多多网盘",
@@ -276,7 +276,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://tv.yydsys.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$DUODUO"
+			"ext": "./lib/tokenm.json$$$https://duoduo.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$DUODUO"
 		},
 		{
 			"key": "讴歌网盘",
@@ -287,7 +287,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$OUGE"
+			"ext": "./lib/tokenm.json$$$https://ouge.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$OUGE"
 		},
 		{
 			"key": "六趣网盘",
@@ -309,7 +309,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://txfyyds.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAFAN"
+			"ext": "./lib/tokenm.json$$$https://xiafan.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$XIAFAN"
 		},
 		{
 			"key": "Guanying",
