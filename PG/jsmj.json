@@ -245,6 +245,27 @@
 			}
 		},
 		{
+			"key": "TGYunPanUC",
+			"name": "TGUC盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 120,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"json": "./lib/tgsearch.json",
+				"keywords": "名称,片名,推荐",
+				"tgsearch_url": "http://127.0.0.1:10199",
+				"tgsearch_media_url": "http://127.0.0.1:10199",
+				"channellist": "ucwpzy|1000,ucpanpan|1000,yunpanuc|1000",
+				"proxy": "noproxy",
+				"danmu": true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
 			"key": "二小网盘",
 			"name": "二小|网盘",
 			"type": 3,
