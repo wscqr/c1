@@ -343,6 +343,24 @@
 			"ext": "https://9877.kstore.space/Market/market.json"
 		},
 		{
+			"key": "哔哩合集",
+			"name": "哔哩｜合集",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.433
+			},
+			"ext": {
+				"json": "./json/哔哩合集.json",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+			}
+		},
+		{
 			"key": "push_agent",
 			"name": "手机｜推送",
 			"type": 3,
