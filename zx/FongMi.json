@@ -77,7 +77,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://revohd.com/",
+				"siteUrl": "https://revohd.com",
 				"filter": "./json/wogg.json"
 			}
 		},
