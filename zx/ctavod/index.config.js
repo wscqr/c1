@@ -28,6 +28,9 @@ var index_config_default = {
       bbbb: "aaaaa"
     }
   },
+  commonConfig: {
+    panOrder: 'uc|p123|quark|ali|ty|115',
+  },
   ali: {
     thread: "4",
     chunkSize: "400",
@@ -74,7 +77,7 @@ var index_config_default = {
     channelUsername: "xx123pan,Q66Share,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,NewQuark,Mbox115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,longzbija,alyp_4K_Movies,yunpanshare,shareAliyun,ikiviyyp,alyp_1",
   },
   wogg: {
-    url: "https://woggpan.333232.xyz"
+    url: 'http://woggpan.xxooo.cf',
   },
   tudou: {
     url: "https://tudou.lvdoui.top"
