@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar",
+    "spider": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
@@ -139,17 +139,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/lb.json?"
-        },
-        {
-            "key": "小米",
-            "name": "小米｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/xm.json?"
         },
         {
             "key": "至臻",
