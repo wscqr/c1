@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar",
+    "spider": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
@@ -95,7 +95,7 @@
             "key": "短剧合集",
             "name": "短剧｜合集",
             "type": 3,
-            "api": "./js/quark.min.js",
+            "api": "./js/cloud.min.js",
             "ext": "./js/短剧合集.js",
             "style": {
                 "type": "list"
@@ -105,19 +105,11 @@
             "key": "短剧大全",
             "name": "短剧｜大全",
             "type": 3,
-            "api": "./js/quark.min.js",
+            "api": "./js/cloud.min.js",
             "ext": "./js/短剧大全.js",
             "style": {
                 "type": "list"
             }
-        },
-        {
-            "key": "移动",
-            "name": "移动｜APP",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
             "key": "玩偶哥哥",
@@ -250,6 +242,17 @@
             "ext": "./json/xf.json"
         },
         {
+            "key": "奥秘",
+            "name": "奥秘｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./json/am.json"
+        },
+        {
             "key": "团长",
             "name": "团长｜4K弹幕",
             "type": 3,
@@ -261,7 +264,7 @@
         },
         {
             "key": "雷鲸",
-            "name": "雷鲸｜4K",
+            "name": "雷鲸｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloudLJ",
             "searchable": 1,
@@ -276,7 +279,7 @@
         },
         {
             "key": "海绵",
-            "name": "海绵｜4K",
+            "name": "海绵｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloudHM",
             "searchable": 1,
@@ -291,7 +294,7 @@
         },
         {
             "key": "Pan1",
-            "name": "123｜4K",
+            "name": "123｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloud123",
             "searchable": 1,
@@ -306,7 +309,7 @@
         },
         {
             "key": "夸父",
-            "name": "夸父｜4K",
+            "name": "夸父｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloudKF",
             "searchable": 1,
@@ -321,12 +324,13 @@
         },
         {
             "key": "趣盘",
-            "name": "趣盘｜4K",
+            "name": "趣盘｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebQu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1,
             "style": {
                 "type": "list",
                 "ratio": 1.433
@@ -337,12 +341,13 @@
         },
         {
             "key": "聚搜",
-            "name": "聚搜｜4K",
+            "name": "聚搜｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebSearch",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1,
             "style": {
                 "type": "list",
                 "ratio": 1.433
@@ -351,14 +356,25 @@
         },
         {
             "key": "盘库",
-            "name": "盘库｜4K",
+            "name": "盘库｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebKuBa",
             "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
             "ext": {
-                "url": "https://panku8.com"
+                "url": "https://panku8.com,https://yipanso.com"
+            }
+        },
+        {
+            "key": "双星",
+            "name": "双星｜4K弹幕",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./js/双星.js",
+            "style": {
+                "type": "list"
             }
         },
         {
@@ -369,7 +385,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://9877.kstore.space/Market/market.json"
+            "ext": "https://9877.kstore.space/Market/multi.json"
         },
         {
             "key": "push_agent",
@@ -431,22 +447,35 @@
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 2,
             "timeout": 10
+        },
+        {
+            "name": "BJ直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://9877.kstore.space/Live/bjyd.m3u",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
         },
         {
             "name": "Guovin",
             "type": 0,
             "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "https://yun.urldwz.com/f/Q6y3ca/migu.m3u",
             "timeout": 10
         },
         {
             "name": "虎牙一起看",
             "type": 3,
             "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/huyayqk.m3u",
+            "url": "https://yun.urldwz.com/f/BE9PSL/huyayqk.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
@@ -454,7 +483,7 @@
             "name": "斗鱼一起看",
             "type": 3,
             "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/douyuyqk.m3u",
+            "url": "https://yun.urldwz.com/f/NR9qiA/douyuyqk.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
@@ -462,7 +491,7 @@
             "name": "YY轮播",
             "type": 3,
             "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/yylunbo.m3u",
+            "url": "https://yun.urldwz.com/f/dlkycZ/yylunbo.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
@@ -470,7 +499,7 @@
             "name": "B站直播",
             "type": 3,
             "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/bilibili.m3u",
+            "url": "https://yun.urldwz.com/f/9XBkHK/bilibili.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
@@ -492,7 +521,6 @@
             "name": "范明明",
             "type": 0,
             "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-            "playerType": 2,
             "timeout": 10
         },
         {
@@ -502,8 +530,7 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png",
             "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 10,
-            "playerType": 2
+            "timeout": 10
         }
     ],
     "hosts": [
