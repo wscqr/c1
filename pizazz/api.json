@@ -84,6 +84,42 @@
             }
         },
         {
+            "key": "移动",
+            "name": "移动｜APP",
+            "type": 3,
+            "api": "csp_YD",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "集多",
+            "name": "集多｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://220.231.146.94:6261",
+                "dataKey": "hL7xN4P9rS2vK5Mq",
+                "dataIv": "hL7xN4P9rS2vK5Mq",
+                "deviceId": "",
+                "version": "200"
+            }
+        },
+        {
+            "key": "牛马",
+            "name": "牛马｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://nm.xxxc137.top",
+                "dataKey": "a006661b01bdebbd",
+                "dataIv": "a006661b01bdebbd",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
             "key": "鲶鱼",
             "name": "鲶鱼｜APP",
             "type": 3,
@@ -118,7 +154,7 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://172.247.44.217:30011",
+                "url": "http://172.247.44.217:30012",
                 "dataKey": "JLa1oRdL6+eK7@M)",
                 "dataIv": "JLa1oRdL6+eK7@M)",
                 "deviceId": "",
@@ -322,6 +358,20 @@
             }
         },
         {
+            "key": "鲨鱼",
+            "name": "鲨鱼｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://cms.wlbbq.xyz",
+                "dataKey": "sdev15rwsa96fsde",
+                "dataIv": "sdev15rwsa96fsde",
+                "deviceId": "",
+                "version": "102"
+            }
+        },
+        {
             "key": "驿站",
             "name": "驿站｜APP",
             "type": 3,
@@ -331,7 +381,46 @@
                 "url": "http://110.42.107.216:56677",
                 "dataKey": "d7378557d1d9c924",
                 "dataIv": "fb4594f622f34fea",
-                "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789/json.php?url="
+                "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"
+            }
+        },
+        {
+            "key": "主角",
+            "name": "主角｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "https://vodapp.feiwang.cc",
+                "dataKey": "25f9e794323b4538",
+                "dataIv": "25f9e794323b4538",
+                "jxurl": "https://vod.feiwang.cc"
+            }
+        },
+        {
+            "key": "永夜",
+            "name": "永夜｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://cms.neyym.cn",
+                "dataKey": "66247d82fcfaeda9",
+                "dataIv": "70691065ee3c4c54",
+                "jxurl": "http://app.neyym.cn"
+            }
+        },
+        {
+            "key": "二三",
+            "name": "二三｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://cs4.123ysw.com",
+                "dataKey": "d3238930e3ae0724",
+                "dataIv": "d3238930e3ae0724",
+                "jxurl": "https://123ysw.com"
             }
         },
         {
@@ -537,6 +626,17 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/xf.json"
+        },
+        {
+            "key": "奥秘",
+            "name": "奥秘｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./json/am.json"
         },
         {
             "key": "团长",
@@ -767,17 +867,6 @@
             "playerType": 2
         },
         {
-            "key": "火车影视",
-            "name": "火车｜影视",
-            "type": 3,
-            "api": "./py/火车影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
             "key": "美帕影视",
             "name": "美帕｜影视",
             "type": 3,
@@ -809,14 +898,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://kkwk123.top/api.php/app/"
-        },
-        {
-            "key": "移动",
-            "name": "移动｜影视",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
             "key": "厂长影视",
@@ -980,6 +1061,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "七七影视",
+            "name": "七七｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/七七影视.json"
         },
         {
             "key": "可可影视",
@@ -1428,6 +1516,13 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./XBPQ/樱花动漫.json"
+        },
+        {
+            "key": "巴士动漫",
+            "name": "巴士｜动漫",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "ext": "./XYQHiker/巴士动漫.json"
         },
         {
             "key": "好看动漫",
@@ -2205,6 +2300,15 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "timeout": 10
+        },
+        {
+            "name": "BJ直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "https://9877.kstore.space/Live/bjyd.m3u",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
         },
         {
             "name": "Guovin",
