@@ -23,7 +23,7 @@
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://127.0.0.1:10199",
         "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "ResourceUniverse",
+        "channellist": "ResourceUniverse,tgsearchers2",
         "proxy": "noproxy",
         "douban": "./lib/douban.json",
         "danmu": true
