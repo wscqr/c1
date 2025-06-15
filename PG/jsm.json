@@ -570,15 +570,26 @@
       "ext": "./lib/tokenm.json$$$https://ouge.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$OUGE"
     },
     {
-      "key": "六趣网盘",
-      "name": "六趣|网盘",
+      "key": "奥秘网盘",
+      "name": "奥秘|网盘",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://wp.0v.fit$$$noproxy$$$1$$$./lib/wogg.json$$$LIUQU"
+      "ext": "./lib/tokenm.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json$$$AOMI"
+    },
+    {
+      "key": "虎斑网盘",
+      "name": "虎斑|网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$http://103.45.162.207:20720$$$noproxy$$$1$$$./lib/wogg.json$$$HUBEN"
     },
     {
       "key": "下饭网盘",
