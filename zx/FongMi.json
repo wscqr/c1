@@ -52,7 +52,7 @@
 			"ext": {
 				"siteUrl": "https://tg.252035.xyz",
 				"count": 4,
-				"channelUsername": "ResourceUniverse",
+				"channelUsername": "ResourceUniverse,tgsearchers2",
 				"commonConfig": "./json/peizhi.json",
 				"filter": "./json/douban.json"
 			}
