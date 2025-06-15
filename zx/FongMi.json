@@ -77,7 +77,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://ouge.banye.tech:7086",
+				"siteUrl": "https://woog.nxog.eu.org",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -90,7 +90,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://huban.banye.tech:7086",
+				"siteUrl": "http://103.45.162.207:20720",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -203,7 +203,20 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://1.95.79.193/",
+				"siteUrl": "http://1.95.79.193:666",
+				"filter": "./json/wogg.json"
+			}
+		},
+		{
+			"key": "玩偶 | 奥秘",
+			"name": "玩偶 | 奥秘",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./json/peizhi.json",
+				"siteUrl": "https://vip.omii.top",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -216,20 +229,20 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://erxiaofn.click/",
+				"siteUrl": "https://erxiaofn.site",
 				"filter": "./json/wogg.json"
 			}
 		},
 		{
-			"key": "玩偶 | 小米",
-			"name": "玩偶 | 小米",
+			"key": "玩偶 | 至臻",
+			"name": "玩偶 | 至臻",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "https://www.milvdou.fun/",
+				"siteUrl": "https://mihdr.top/",
 				"filter": "./json/wogg.json"
 			}
 		},
@@ -242,7 +255,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./json/peizhi.json",
-				"siteUrl": "http://tv.yydsys.top/",
+				"siteUrl": "https://tv.yydsys.top",
 				"filter": "./json/wogg.json"
 			}
 		},
