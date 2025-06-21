@@ -146,6 +146,32 @@
       }
     },
     {
+      "key": "csp_Netfixtv",
+      "name": "木偶┃4K弹幕",
+      "type": 3,
+      "changeable": "0",
+      "quickSearch": 1,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar": "./spider.jar",
+      "ext": {
+        "site_urls": [
+        "http://123.666291.xyz",
+        "https://123.91muou.icu",
+        "https://mo.666291.xyz",
+        "https://123.muouso.fun"
+        ],
+        "url_key": "MUOU",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
+        }
+      }
+    },
+    {
       "key": "csp_Duopan",
       "name": "🖍蜡笔┃4K弹幕",
       "type": 3,
