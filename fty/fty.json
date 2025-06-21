@@ -146,31 +146,6 @@
       }
     },
     {
-      "key": "csp_DUODUO",
-      "name": "✈多多┃4K弹幕",
-      "type": 3,
-      "changeable": "0",
-      "quickSearch": 1,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "./spider.jar",
-      "ext": {
-        "site_urls": [
-           "https://tv.yydsys.top",
-           "https://tv.yydsys.cc",
-           "https://tv.214521.xyz"
-        ],
-        "url_key": "YYDS",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        }
-      }
-    },
-    {
       "key": "csp_Duopan",
       "name": "🖍蜡笔┃4K弹幕",
       "type": 3,
