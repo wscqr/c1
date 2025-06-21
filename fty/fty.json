@@ -146,8 +146,8 @@
       }
     },
     {
-      "key": "csp_Netfixtv",
-      "name": "木偶┃4K弹幕",
+      "key": "csp_Netfixtv2",
+      "name": "✈️多多┃4K弹幕",
       "type": 3,
       "changeable": "0",
       "quickSearch": 1,
@@ -156,12 +156,11 @@
       "jar": "./spider.jar",
       "ext": {
         "site_urls": [
-        "http://123.666291.xyz",
-        "https://123.91muou.icu",
-        "https://mo.666291.xyz",
-        "https://123.muouso.fun"
+           "https://tv.yydsys.top",
+           "https://tv.yydsys.cc",
+           "https://tv.214521.xyz"
         ],
-        "url_key": "MUOU",
+        "url_key": "UC",
         "token": "",
         "ucCookie": "",
         "quarkCookie": "",
