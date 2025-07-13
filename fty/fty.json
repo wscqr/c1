@@ -146,6 +146,13 @@
       }
     },
     {
+            "key": "huban",
+            "name": "🚀虎斑┃弹幕┃小窗",
+            "type": 3,
+            "jar": "./huban.jar",
+            "api": "csp_Huban"
+    },
+    {
       "key": "csp_Duopan",
       "name": "🖍蜡笔┃4K弹幕",
       "type": 3,
