@@ -145,36 +145,29 @@
         "from": "4k|auto"
       }
     },
-    {
-            "key": "huban",
-            "name": "🚀虎斑┃弹幕┃小窗",
+        {
+            "key": "csp_Duopan",
+            "name": "🖍蜡笔┃4K网盘",
             "type": 3,
-            "jar": "./huban.jar",
-            "api": "csp_Huban"
-    },
-    {
-      "key": "csp_Duopan",
-      "name": "🖍蜡笔┃4K弹幕",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "./spider.jar",
-      "ext": {
-        "site_urls": [
-          "https://feimao666.fun",
-          "http://feimao888.fun",
-          "http://feimaoai.site",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "https://fmao.shop"
-        ],
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
+            "quickSearch": 0,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "https://feimao666.fun",
+                    "http://feimao888.fun",
+                    "http://feimaoai.site",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "https://fmao.shop"
+                ],
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                },
+                "url_key": "Duopan4"
+            }
         },
-        "url_key": "Duopan4"
-      }
-    },
     {
       "key": "csp_Netfixtv",
       "name": "💌至臻┃4K弹幕",
