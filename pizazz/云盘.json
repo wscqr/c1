@@ -24,6 +24,14 @@
             }
         },
         {
+            "key": "移动",
+            "name": "移动｜APP",
+            "type": 3,
+            "api": "csp_YD",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "AList",
             "name": "AList｜合集",
             "type": 3,
