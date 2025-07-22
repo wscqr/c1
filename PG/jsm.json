@@ -548,17 +548,6 @@
       "ext": "./lib/tokenm.json$$$http://1.95.79.193:666$$$noproxy$$$1$$$./lib/wogg.json$$$SANDIAN"
     },
     {
-      "key": "pansou网盘",
-      "name": "pansou|网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://so.252035.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$PANSOUS"
-    },
-    {
       "key": "多多网盘",
       "name": "多多|网盘",
       "type": 3,
