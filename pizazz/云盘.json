@@ -45,20 +45,6 @@
             "ext": "./json/alist.json"
         },
         {
-            "key": "阿里云盘",
-            "name": "阿里｜云盘",
-            "type": 3,
-            "api": "csp_PanAli",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/aliShare.json"
-        },
-        {
             "key": "夸克云盘",
             "name": "夸克｜云盘",
             "type": 3,
@@ -206,17 +192,6 @@
             "ext": "./json/ex.json"
         },
         {
-            "key": "大玩",
-            "name": "大玩｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/dawo.json"
-        },
-        {
             "key": "虎斑",
             "name": "虎斑｜4K弹幕",
             "type": 3,
@@ -239,15 +214,15 @@
             "ext": "./json/sd.json"
         },
         {
-            "key": "奥秘",
-            "name": "奥秘｜4K弹幕",
+            "key": "百家",
+            "name": "百家｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./json/am.json"
+            "ext": "./json/bj.json"
         },
         {
             "key": "团长",
@@ -360,16 +335,6 @@
             }
         },
         {
-            "key": "懒盘",
-            "name": "懒盘｜4K弹幕",
-            "type": 3,
-            "api": "./js/cloud.min.js",
-            "ext": "./js/懒盘.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "百酷",
             "name": "百酷｜4K弹幕",
             "type": 3,
@@ -420,17 +385,6 @@
             }
         },
         {
-            "key": "移动",
-            "name": "移动｜4K",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "糖果",
             "name": "糖果｜搜索",
             "type": 3,
@@ -443,16 +397,6 @@
             "name": "米搜｜搜索",
             "type": 3,
             "api": "csp_MiSou"
-        },
-        {
-            "key": "聚搜",
-            "name": "聚搜｜搜索",
-            "type": 3,
-            "api": "csp_PanWebSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "人人分享站",
@@ -475,16 +419,6 @@
             }
         },
         {
-            "key": "夸克盘搜",
-            "name": "盘搜｜搜索",
-            "type": 3,
-            "api": "./js/cloud.min.js",
-            "ext": "./js/夸克盘搜.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "版本信息",
             "name": "版本｜信息",
             "type": 3,
@@ -492,7 +426,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://9877.kstore.space/Market/multi.json"
+            "ext": "https://pizazz.s3.bitiful.net/multi.json"
         },
         {
             "key": "push_agent",
@@ -548,52 +482,7 @@
             ]
         }
     ],
-    "lives": [
-        {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 1,
-            "timeout": 10
-        },
-        {
-            "name": "Guovin",
-            "type": 0,
-            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "timeout": 10
-        },
-        {
-            "name": "电视Live",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "网络Live",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Live",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "范明明",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-            "timeout": 10
-        },
-        {
-            "name": "APTV",
-            "type": 0,
-            "url": "https://github.3x25.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 10
-        }
-    ],
+    "lives": [],
     "hosts": [
         "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
