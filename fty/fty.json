@@ -13,14 +13,6 @@
       "changeable": 0
     },
     {
-      "key": "config",
-      "name": "⚙网盘┃配置 项目链接：https://link3.cc/lovemm",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./spider.jar",
-      "searchable": 0
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
