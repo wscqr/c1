@@ -52,9 +52,24 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "http://127.0.0.1:9999",
+        "siteUrl": "https://tgsou.252035.xyz",
         "count": 4,
         "channelUsername": "+P4IU1QbK4ChlNTYx,tgsearchers3,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1",
+        "commonConfig": "./json/peizhi.json",
+        "filter": "./json/douban.json"
+      }
+    },
+    {
+      "key": "p2t",
+      "name": "PanSou",
+      "type": 3,
+      "api": "csp_TgYunDouBanPan",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "https://p2t.252035.xyz",
+        "count": 20,
+        "channelUsername": "",
         "commonConfig": "./json/peizhi.json",
         "filter": "./json/douban.json"
       }
