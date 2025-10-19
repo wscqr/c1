@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.txt;md5;f6dd09061793aa1f499be0ffebaf5f67",
+  "spider": "./fty.txt;md5;88cb103cc0693dbc8e30539714362e2d",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -25,6 +25,20 @@
         "from": "4k|auto",
         "siteUrl": "https://www.wogg.com/",
         "danMu": "弹"
+      }
+    },
+    {
+      "key": "seed",
+      "name": "💡聚剧剧┃三盘",
+      "type": 3,
+      "api": "csp_SeedhubGuard",
+      "changeable": 0,
+      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
       }
     },
     {
@@ -145,29 +159,29 @@
         "from": "4k|auto"
       }
     },
-        {
-            "key": "csp_Duopan",
-            "name": "🖍蜡笔┃4K网盘",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "https://feimao666.fun",
-                    "http://feimao888.fun",
-                    "http://feimaoai.site",
-                    "http://www.labi88.sbs",
-                    "http://fmao.site",
-                    "https://fmao.shop"
-                ],
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                },
-                "url_key": "Duopan4"
-            }
+    {
+      "key": "csp_Duopan",
+      "name": "🖍蜡笔┃4K网盘",
+      "type": 3,
+      "quickSearch": 0,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://feimao666.fun",
+          "http://feimao888.fun",
+          "http://feimaoai.site",
+          "http://www.labi88.sbs",
+          "http://fmao.site",
+          "https://fmao.shop"
+        ],
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
         },
+        "url_key": "Duopan4"
+      }
+    },
     {
       "key": "csp_Netfixtv",
       "name": "💌至臻┃4K弹幕",
@@ -269,7 +283,6 @@
       "changeable": 1,
       "ext": "https://www.zxzjhd.com/"
     },
-
     {
       "key": "比特",
       "name": "🍄比特┃手机",
@@ -291,7 +304,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
     {
       "key": "文采",
       "name": "💮文采┃秒播",
