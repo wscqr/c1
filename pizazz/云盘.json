@@ -1,7 +1,7 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-    "logo": "./logo.png",
+    "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
         {
             "key": "豆瓣",
@@ -33,12 +33,26 @@
             "changeable": 0,
             "style": {
                 "type": "list"
-            }，
+            },
             "ext": "./json/alist.json"
-        }，
+        },
+        {
+            "key": "阿里云盘",
+            "name": "我的｜阿里",
+            "type": 3,
+            "api": "csp_PanAli",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/aliShare.json"
+        },
         {
             "key": "夸克云盘",
-            "name": "夸克｜云盘",
+            "name": "我的｜夸克",
             "type": 3,
             "api": "csp_PanQuark",
             "searchable": 0,
@@ -49,10 +63,10 @@
                 "ratio": 1.433
             },
             "ext": "./json/quarkShare.json"
-        }，
+        },
         {
-            "key": "UC",
-            "name": "UC｜云盘",
+            "key": "UC云盘",
+            "name": "我的｜UC",
             "type": 3,
             "api": "csp_PanUc",
             "searchable": 0,
@@ -61,12 +75,12 @@
             "style": {
                 "type": "list",
                 "ratio": 1.433
-            }，
+            },
             "ext": "./json/ucShare.json"
-        }，
+        },
         {
             "key": "百度云盘",
-            "name": "百度｜云盘",
+            "name": "我的｜百度",
             "type": 3,
             "api": "csp_PanBaiDu",
             "searchable": 0,
@@ -76,7 +90,7 @@
                 "type": "list",
                 "ratio": 1.433
             }
-        }，
+        },
         {
             "key": "小斑快映",
             "name": "快映｜4K",
@@ -87,7 +101,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/xbky.json"
-        }，
+        },
         {
             "key": "玩偶哥哥",
             "name": "玩偶｜4K",
@@ -98,7 +112,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/wogg.json"
-        }，
+        },
         {
             "key": "木偶",
             "name": "木偶｜4K",
@@ -109,7 +123,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/mogg.json"
-        }，
+        },
         {
             "key": "蜡笔",
             "name": "蜡笔｜4K",
@@ -120,7 +134,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/lb.json"
-        }，
+        },
         {
             "key": "至臻",
             "name": "至臻｜4K",
@@ -131,7 +145,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/zz.json"
-        }，
+        },
         {
             "key": "多多",
             "name": "多多｜4K",
@@ -142,7 +156,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/yyds.json"
-        }，
+        },
         {
             "key": "欧哥",
             "name": "欧哥｜4K",
@@ -283,6 +297,18 @@
             "filterable": 1
         },
         {
+            "key": "阿里盘搜",
+            "name": "阿里｜搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "cloudDrives": "aliyun"
+            }
+        },
+        {
             "key": "夸克盘搜",
             "name": "夸克｜搜索",
             "type": 3,
@@ -371,36 +397,6 @@
             "name": "鬼鬼｜搜索",
             "type": 3,
             "api": "csp_GuiGui"
-        },
-        {
-            "key": "夸克推送",
-            "name": "夸克｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=quark"
-        },
-        {
-            "key": "UC推送",
-            "name": "UC｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=uc"
-        },
-        {
-            "key": "天翼推送",
-            "name": "天翼｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=tianyi"
-        },
-        {
-            "key": "123推送",
-            "name": "123｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=123"
-        },
-        {
-            "key": "百度推送",
-            "name": "百度｜推送",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=baidu"
         },
         {
             "key": "版本信息",
@@ -572,62 +568,62 @@
                     "category": 4,
                     "name": "framedrop",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "soundtouch",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "start-on-prepared",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 1,
                     "name": "http-detect-range-support",
                     "value": "0"
-                }，
+                },
                 {
                     "category": 1,
                     "name": "fflags",
                     "value": "fastseek"
-                }，
+                },
                 {
                     "category": 2,
                     "name": "skip_loop_filter",
                     "value": "48"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "reconnect",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "enable-accurate-seek",
                     "value": "0"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "mediacodec",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "mediacodec-auto-rotate",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "mediacodec-handle-resolution-change",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "mediacodec-hevc",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 1,
                     "name": "dns_cache_timeout",
