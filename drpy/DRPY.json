@@ -1,0 +1,2554 @@
+{
+  "sites": [
+    {
+      "key": "drpy2_豆瓣[官]",
+      "name": "豆瓣[官](DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "豆瓣[官]",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/豆瓣[官].js?pwd=dzyyds"
+    },
+    {
+      "key": "drpyS_番茄小说[书]",
+      "name": "番茄小说[书](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/番茄小说[书]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "番茄小说[书]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_大象影视",
+      "name": "大象影视(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/大象影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "大象影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_腾云驾雾[官]",
+      "name": "腾云驾雾[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/腾云驾雾[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "腾云驾雾[官]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_央视大全[官]",
+      "name": "央视大全[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/央视大全[官]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "央视大全[官]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_IPTV直播",
+      "name": "IPTV直播(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/直播转点播[合]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "直播转点播[合]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tz8ksSzVKzi3WA/EAuuBHLxUAAAA="
+    },
+    {
+      "key": "drpyS_IPTV四川[官]",
+      "name": "IPTV四川[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/直播转点播[合]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "直播转点播[合]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tz8ksSzVKzi3WLU7WAwkAANFSeAoYAAAA"
+    },
+    {
+      "key": "drpyS_PTT[优]",
+      "name": "PTT[优](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/PTT[优]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "PTT[优]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_木兮[优]",
+      "name": "木兮[优](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/木兮[优]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "木兮[优]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_樱花动漫[优]",
+      "name": "樱花动漫[优](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/樱花动漫[优]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "樱花动漫[优]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_粤漫之家[优]",
+      "name": "粤漫之家[优](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/粤漫之家[优]?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "粤漫之家[优]",
+      "author": "不告诉你",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpy2_03影院[优]",
+      "name": "03影院[优](DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "03影院[优]",
+      "author": "小可乐/250915/第一版",
+      "类型": "影视",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/03影院[优].js?pwd=dzyyds"
+    },
+    {
+      "key": "drpy2_可可影视[优]",
+      "name": "可可影视[优](DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "可可影视[优]",
+      "类型": "影视",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/可可影视[优].js?pwd=dzyyds"
+    },
+
+
+    {
+      "key": "drpyS_360影视[官]",
+      "name": "360影视[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/360影视[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "360影视[官]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_优酷[官]",
+      "name": "优酷[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/优酷[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "优酷[官]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_哔哩影视[官]",
+      "name": "哔哩影视[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/哔哩影视[官]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "哔哩影视[官]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_哔哩收藏[官]",
+      "name": "哔哩收藏[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/哔哩收藏[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "哔哩收藏[官]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tfzp5ytPJK59N2fZier8eSAQA1H95AxkAAAA="
+    },
+    {
+      "key": "drpyS_奇珍异兽[官]",
+      "name": "奇珍异兽[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/奇珍异兽[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "奇珍异兽[官]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_哔哩教育[官]",
+      "name": "哔哩教育[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/我的哔哩[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "我的哔哩[官]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tfzp5ytPJK59NnfmiaZMeSAQAgv7xPBkAAAA="
+    },
+    {
+      "key": "drpyS_哔哩少儿[官]",
+      "name": "哔哩少儿[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/我的哔哩[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "我的哔哩[官]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tfzp5ytPJK59umPi0Zb8eSAQAOsH08xkAAAA="
+    },
+    {
+      "key": "drpyS_哔哩大全[官]",
+      "name": "哔哩大全[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/我的哔哩[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "我的哔哩[官]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tfzp5ytPJK58uWf60dYUeSAQAZ2A+OBkAAAA="
+    },
+    {
+      "key": "drpyS_哔哩大杂烩[官]",
+      "name": "哔哩大杂烩[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/我的哔哩[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "我的哔哩[官]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tfzp5ytPJK58uWf5sbtPz5pV6IEEAolZcGBwAAAA="
+    },
+    {
+      "key": "drpyS_斗鱼直播弹幕[官]",
+      "name": "斗鱼直播弹幕[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/斗鱼直播弹幕[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "斗鱼直播弹幕[官]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_百忙无果[官]",
+      "name": "百忙无果[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/百忙无果[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "百忙无果[官]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_菜狗[官]",
+      "name": "菜狗[官](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/菜狗[官]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "菜狗[官]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpy2_百忙无果[官]",
+      "name": "百忙无果[官](DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "百忙无果[官]",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/百忙无果[官].js?pwd=dzyyds"
+    },
+    {
+      "key": "drpy2_虎牙直播[官]",
+      "name": "虎牙直播[官](DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "虎牙直播[官]",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/虎牙直播[官].js?pwd=dzyyds"
+    },
+
+    {
+      "key": "hipy_py_2k动漫[AS]",
+      "name": "2k动漫[AS](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppSk.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppSk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://dmsk.oss-rg-china-mainland.aliyuncs.com/dmapp/dmapi.txt",
+        "key": "ygcnbcobcegtgigg",
+        "iv": "4058263969143708"
+      }
+    },
+    {
+      "key": "hipy_py_4K大全[AG³]",
+      "name": "4K大全[AG³](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/getapp3.4.4.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "getapp3.4.4",
+      "lang": "hipy",
+      "ext": {
+        "host": "http://appcms.4kdq.icu",
+        "key": "R6FVRw4jsy4Hsitj"
+      }
+    },
+    {
+      "key": "drpyS_16wMV[听]",
+      "name": "16wMV[听](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/16wMV[听]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "16wMV[听]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9rb+LR17ZMd7c/W9jybvUmvpKIEABrNdgcbAAAA"
+    },
+    {
+      "key": "hipy_py_23影视[AM]",
+      "name": "23影视[AM](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppMuou.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppMuou",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/764119293.txt",
+        "version": "4.2.0"
+      }
+    },
+    {
+      "key": "drpyS_30wMV[听]",
+      "name": "30wMV[听](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/30wMV[听]?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "30wMV[听]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_啊哈DJ[听]",
+      "name": "啊哈DJ[听](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/啊哈DJ[听]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "啊哈DJ[听]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpy2_爱看机器人[虫]",
+      "name": "爱看机器人[虫](DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "爱看机器人[虫]",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/爱看机器人[虫].js?pwd=dzyyds"
+    },
+    {
+      "key": "catvod_爱玩音乐",
+      "name": "爱玩音乐(cat)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/cat/爱玩音乐.js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "爱玩音乐",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "drpy2_嗷呜瓜子",
+      "name": "嗷呜瓜子(DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "嗷呜瓜子",
+      "类型": "影视",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/嗷呜瓜子.js?pwd=dzyyds"
+    },
+    {
+      "key": "hipy_py_白蛇[AG³]",
+      "name": "白蛇[AG³](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/getapp3.4.4.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "getapp3.4.4",
+      "lang": "hipy",
+      "ext": {
+        "host": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
+        "datakey": "n3l2tx5jdkp9s2c8"
+      }
+    },
+
+    {
+      "key": "drpyS_贝乐虎[儿]",
+      "name": "贝乐虎[儿](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/贝乐虎[儿]?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "贝乐虎[儿]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_哔哩哔哩",
+      "name": "哔哩哔哩(hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/哔哩哔哩.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "哔哩哔哩",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_播客[听]",
+      "name": "播客[听](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/播客[听]?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "播客[听]",
+      "类型": "听书",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_博看听书[听]",
+      "name": "博看听书[听](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/博看听书[听]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "博看听书[听]",
+      "类型": "听书",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_采王2024",
+      "name": "采王2024(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/采集之王[合]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "采集之王[合]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9ne/nJ2m5GBkcnLuTOfNTTqgURVDFUAlKCu7yAAAAA="
+    },
+    {
+      "key": "drpyS_采王2025",
+      "name": "采王2025(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/采集之王[合]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "采集之王[合]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9ne/nJ2m5GBkenLuTOfNTTqgURVDFUAfHtVViAAAAA="
+    },
+    {
+      "key": "drpyS_采王成人[密]",
+      "name": "采王成人[密](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/采集之王[合]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "采集之王[合]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9ne/nJ2W/TT9W2xL+fOfNbQqAcSVjFUAQAd5YgpIQAAAA=="
+    },
+    {
+      "key": "drpyS_采王道长[合]",
+      "name": "采王道长[合](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/采集之王[合]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "采集之王[合]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9ne/nJ228u5M581NOqBRFQMAcGPDNobAAAA"
+    },
+    {
+      "key": "drpyS_采王zy[密]",
+      "name": "采王zy[密](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/采集之王[合]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "采集之王[合]",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9ne/nJ2W3RVZezLuTOfNTTqgURVDAGu/MCKHwAAAA=="
+    },
+    {
+      "key": "hipy_py_仓鼠[AG²]",
+      "name": "仓鼠[AG²](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppGet.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppGet",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://newappcms.cs4k.top",
+        "key": "Z98KXaLtO2wC1Pte",
+        "path": "/api.php/qijiappapi"
+      }
+    },
+    {
+      "key": "drpyS_草榴社区[密]",
+      "name": "草榴社区[密](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/草榴社区[密]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "草榴社区[密]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_畅看[ATV⁵]",
+      "name": "畅看[ATV⁵](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppToV5.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppToV5",
+      "lang": "hipy",
+      "ext": "http://118.89.203.120:8366"
+    },
+    {
+      "key": "hipy_py_大米[AV²]",
+      "name": "大米[AV²](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppV2².py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppV2²",
+      "lang": "hipy",
+      "ext": "https://dmz8k4.wiki"
+    },
+    {
+      "key": "drpyS_点歌欢唱[B]",
+      "name": "点歌欢唱[B](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/点歌欢唱[B]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "点歌欢唱[B]",
+      "logo": "https://tva1.sinaimg.cn/crop.6.7.378.378.1024/a22d2331jw8f6hs4xrb4kj20ay0ayacy.jpg",
+      "lang": "ds",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9rb+LR17ZMd7c/W9jybvUmvpKIEABrNdgcbAAAA"
+    },
+    {
+      "key": "drpyS_顶点小说[书]",
+      "name": "顶点小说[书](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/顶点小说[书]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "顶点小说[书]",
+      "类型": "小说",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_动作测试新定标准版",
+      "name": "动作测试新定标准版(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/动作测试新定标准版?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "动作测试新定标准版",
+      "more": {
+        "sourceTag": "设置,动作",
+        "actions": [
+          {
+            "name": "模拟设置夸克Cookie",
+            "action": "set-cookie"
+          },
+          {
+            "name": "模拟夸克扫码",
+            "action": "夸克扫码"
+          },
+          {
+            "name": "模拟设置玩偶域名",
+            "action": "{\"actionId\":\"玩偶域名\",\"id\":\"domain\",\"type\":\"input\",\"width\":450,\"title\":\"玩偶域名\",\"tip\":\"请输入玩偶域名\",\"value\":\"\",\"msg\":\"选择或输入使用的域名\",\"selectData\":\"1:=https://www.wogg.net/,2:=https://wogg.xxooo.cf/,3:=https://wogg.888484.xyz/,4:=https://www.wogg.bf/,5:=https://woggapi.333232.xyz/\"}"
+          }
+        ]
+      },
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_动作代理测试",
+      "name": "动作代理测试(hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/动作代理测试.py?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "动作代理测试",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_动作交互",
+      "name": "动作交互(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/动作交互?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "动作交互",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_番茄短剧",
+      "name": "番茄短剧(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/番茄短剧?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "番茄短剧",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_番喜[ATV⁵]",
+      "name": "番喜[ATV⁵](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppToV5.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppToV5",
+      "lang": "hipy",
+      "ext": "http://118.89.203.120:8762"
+    },
+    {
+      "key": "drpyS_凡客TV",
+      "name": "凡客TV(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/凡客TV?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "凡客TV",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_非凡采集[采]",
+      "name": "非凡采集[采](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/非凡采集[采]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "非凡采集[采]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_凤凰FM[听]",
+      "name": "凤凰FM[听](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/凤凰FM[听]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "凤凰FM[听]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_光映视界_AppShark",
+      "name": "光映视界[M](SHARK)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/AppShark[模板]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "../json/App模板配置.json$光映视界"
+    },
+    {
+      "key": "drpyS_鬼片之家",
+      "name": "鬼片之家(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/鬼片之家?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "鬼片之家",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_海狗视频[Hs]",
+      "name": "海狗视频[Hs](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppHs.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppHs",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://dy.stxbed.com",
+        "app_id": "haigou",
+        "deviceid": "",
+        "versionCode": "20100",
+        "UMENG_CHANNEL": "zhuan"
+      }
+    },
+    {
+      "key": "drpyS_好乐影视",
+      "name": "好乐影视(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/好乐影视?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "好乐影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_好震惊[AV²]",
+      "name": "好震惊[AV²](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppV2².py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppV2²",
+      "lang": "hipy",
+      "ext": "http://v.lnhaozhenjin.cn"
+    },
+    {
+      "key": "catvod_河南电视代理",
+      "name": "河南电视代理(cat)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/cat/河南电视代理.js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "河南电视代理",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_黑料不打烊[密]",
+      "name": "黑料不打烊[密](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/黑料不打烊[密]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "黑料不打烊[密]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_火猫[AG¹]",
+      "name": "火猫[AG¹](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppGet.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppGet",
+      "lang": "hipy",
+      "ext": {
+        "host": "http://154.12.90.59:14500",
+        "key": "J6AIORKJ3PQOJKM3"
+      }
+    },
+    {
+      "key": "hipy_py_火猫影视[AFX]",
+      "name": "火猫影视[AFX](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppFox.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppFox",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://cunchu8.obs.cn-north-4.myhuaweicloud.com/config.json",
+        "parse": {
+          "JL4K": "http://194.147.100.155:7891/?url="
+        }
+      }
+    },
+    {
+      "key": "hipy_py_即看影视[AS]",
+      "name": "即看影视[AS](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppSk.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppSk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://skyappdata-1321528676.cos.accelerate.myqcloud.com/4kapp/appipr.txt",
+        "key": "ygcnbckhcuvygdyb",
+        "iv": "4023892775143708"
+      }
+    },
+    {
+      "key": "drpyS_集百动漫",
+      "name": "集百动漫(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/集百动漫?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "集百动漫",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "catvod_荐片",
+      "name": "荐片(cat)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/cat/荐片.js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "荐片",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_荐片",
+      "name": "荐片(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/荐片?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "荐片",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_锦鲤短剧",
+      "name": "锦鲤短剧(hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/锦鲤短剧.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "锦鲤短剧",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_鲸鱼影视[AG³]",
+      "name": "鲸鱼影视[AG³](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/getapp3.4.4.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "getapp3.4.4",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+        "datakey": "AAdgrdghjfgswerA",
+        "api": 2
+      }
+    },
+    {
+      "key": "hipy_py_橘子TV[Ayq]",
+      "name": "橘子TV[Ayq](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppYqk.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppYqk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://gapi0725.5p8jcjc.com/config.json,https://gapi0725.olrv5gz.com/config.json,https://gapi0725.mvljeat.com/config.json,https://jzapp-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://juzi-config-1360051343.cos.ap-shanghai.myqcloud.com/config.json",
+        "appId": "fea23e11fc1241409682880e15fb2851",
+        "appkey": "f384b87cc9ef41e4842dda977bae2c7f",
+        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
+        "bundlerId": "com.voraguzzee.ts",
+        "source": "1003_default",
+        "version": "1.0.1",
+        "versionCode": 1000
+      }
+    },
+    {
+      "key": "hipy_py_剧下饭[AV²]",
+      "name": "剧下饭[AV²](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppV2².py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppV2²",
+      "lang": "hipy",
+      "ext": "http://jxfmax.juxiafan.com"
+    },
+    {
+      "key": "hipy_py_剧下饭[AV⁶]",
+      "name": "剧下饭[AV⁶](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppV6.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppV6",
+      "lang": "hipy",
+      "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
+    },
+    {
+      "key": "hipy_py_剧永久[AV⁶]",
+      "name": "剧永久[AV⁶](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppV6.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppV6",
+      "lang": "hipy",
+      "ext": {
+        "api": "http://yjyi.juyongjiu.com/icciu_api.php/v1.vod",
+        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+        "apisignkey": "lvdoutv-1.0.0"
+      }
+    },
+    {
+      "key": "catvod_聚合短剧[短]",
+      "name": "聚合短剧[短](cat)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/cat/聚合短剧[短].js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "聚合短剧[短]",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_开眼",
+      "name": "开眼(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/开眼?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "开眼",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_看客联盟[AS]",
+      "name": "看客联盟[AS](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppSk.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppSk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://kankelm.cn:2024/appdomain.txt",
+        "key": "ygcnbcvybqqckwqy",
+        "iv": "1583560747143708"
+      }
+    },
+    {
+      "key": "drpyS_可可影视",
+      "name": "可可影视(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/可可影视?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "可可影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_酷我听书[听]",
+      "name": "酷我听书[听](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/酷我听书[听]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "酷我听书[听]",
+      "类型": "听书",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "catvod_蓝莓聚合短剧[B]",
+      "name": "蓝莓聚合短剧[B](cat)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/cat/蓝莓聚合短剧[B].js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "蓝莓聚合短剧[B]",
+      "author": "phototake",
+      "ext": "https://bao.lanmeio.com/",
+      "logo": "https://img2.baidu.com/it/u=1444140254,1996298586&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "comment": "感谢蓝莓大佬友情支持！"
+    },
+    {
+      "key": "drpyS_蓝鹰_Appget",
+      "name": "蓝鹰[M](GET)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/Appget[模板]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "../json/App模板配置.json$蓝鹰"
+    },
+    {
+      "key": "hipy_py_懒懒视频",
+      "name": "懒懒视频(hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/懒懒视频.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "懒懒视频",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_玲珑[AG¹]",
+      "name": "玲珑[AG¹](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppGet.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppGet",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://mac.555618.xyz",
+        "key": "#getapp@TMD@2025"
+      }
+    },
+    {
+      "key": "drpy2_零度",
+      "name": "零度(DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "零度",
+      "类型": "影视",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/零度.js?pwd=dzyyds"
+    },
+    {
+      "key": "drpyS_零度",
+      "name": "零度(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/零度?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "类型": "影视",
+      "lang": "ds",
+      "title": "零度",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_六月听书[听]",
+      "name": "六月听书[听](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/六月听书[听]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "六月听书[听]",
+      "logo": "https://pic.xlhs.com/up/2021-11/2021112985176843.png",
+      "类型": "听书",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_萝卜[AG³]",
+      "name": "萝卜[AG³](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/getapp3.4.4.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "getapp3.4.4",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://apiapplbys.lbys.app:5678",
+        "key": "apiapplbyskey168"
+      }
+    },
+    {
+      "key": "drpyS_麦田影院",
+      "name": "麦田影院(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/麦田影院?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "麦田影院",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "catvod_猫测试",
+      "name": "猫测试(cat)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/cat/猫测试.js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "猫测试",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_美颜怪[擦]",
+      "name": "美颜怪[擦](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/美颜怪[擦]?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "美颜怪[擦]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_米诺-旧[AG¹]",
+      "name": "米诺-旧[AG¹](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppGet.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppGet",
+      "lang": "hipy",
+      "ext": {
+        "host": "http://www.milkidc.cn",
+        "key": "20c79c979da8db0f"
+      }
+    },
+    {
+      "key": "hipy_py_米兔-旧[AG¹]",
+      "name": "米兔-旧[AG¹](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppGet.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppGet",
+      "lang": "hipy",
+      "ext": {
+        "host": "http://new.tkbot.fun",
+        "key": "d032c12876bc6848"
+      }
+    },
+    {
+      "key": "drpy2_米兔音乐",
+      "name": "米兔音乐(DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "米兔音乐",
+      "类型": "影视",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/米兔音乐.js?pwd=dzyyds"
+    },
+    {
+      "key": "drpyS_牛牛短剧",
+      "name": "牛牛短剧(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/牛牛短剧?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "牛牛短剧",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_皮皮虾[ATV⁵]",
+      "name": "皮皮虾[ATV⁵](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppToV5.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppToV5",
+      "lang": "hipy",
+      "ext": "http://38.55.237.41:8762"
+    },
+    {
+      "key": "drpyS_七猫短剧",
+      "name": "七猫短剧(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/七猫短剧?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "七猫短剧",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_七猫小说[书]",
+      "name": "七猫小说[书](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/七猫小说[书]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "七猫小说[书]",
+      "logo": "https://cdn-front.qimao.com/global/static/images/favicon2022.ico",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_七猫小说[书]",
+      "name": "七猫小说[书](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/七猫小说[书].py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "七猫小说[书]",
+      "logo": "https://cdn-front.qimao.com/global/static/images/favicon2022.ico",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_七月[AG³]",
+      "name": "七月[AG³](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/getapp3.4.4.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "getapp3.4.4",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://99.jl8.top/1.txt",
+        "key": "xnybssspqtwotuwj"
+      }
+    },
+    {
+      "key": "catvod_青木倪壁纸[画]",
+      "name": "青木倪壁纸[画](cat)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/cat/青木倪壁纸[画].js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "青木倪壁纸[画]",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_清风DJ[听]",
+      "name": "清风DJ[听](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/清风DJ[听]?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "清风DJ[听]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_热剧[AV²]",
+      "name": "热剧[AV²](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppV2².py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppV2²",
+      "lang": "hipy",
+      "ext": "https://www.rebovod.com"
+    },
+    {
+      "key": "drpyS_软鸭短剧",
+      "name": "软鸭短剧(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/软鸭短剧?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "软鸭短剧",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_森林动漫[AF]",
+      "name": "森林动漫[AF](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppFei.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppFei",
+      "lang": "hipy",
+      "ext": "https://ysa.yy-fun.cc/feiapp"
+    },
+    {
+      "key": "hipy_py_闪影[AV²]",
+      "name": "闪影[AV²](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppV2².py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppV2²",
+      "lang": "hipy",
+      "ext": "http://38.47.213.61:41271"
+    },
+    {
+      "key": "hipy_py_拾光视频[Hs]",
+      "name": "拾光视频[Hs](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppHs.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppHs",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://dy.jmzp.net.cn",
+        "app_id": "shiguang",
+        "deviceid": "",
+        "versionCode": "10000",
+        "UMENG_CHANNEL": "guan"
+      }
+    },
+    {
+      "key": "hipy_py_天空影视",
+      "name": "天空影视(hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/天空影视.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "天空影视",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_兔小贝[儿]",
+      "name": "兔小贝[儿](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/兔小贝[儿]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "兔小贝[儿]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_王子TV",
+      "name": "王子TV(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/王子TV?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "王子TV",
+      "logo": "https://i-blog.csdnimg.cn/blog_migrate/2621e710a94ab40ba66645d47f296aaf.gif",
+      "lang": "ds",
+      "ext": ""
+    },
+
+    {
+      "key": "hipy_py_未来影视[AFX]",
+      "name": "未来影视[AFX](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppFox.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppFox",
+      "lang": "hipy",
+      "ext": {
+        "host": "http://kumiao.yzbao.com.cn",
+        "parse": {
+          "qq|qiyi|mgtv|youku|bilibili": "https://api.qljson.xyz/api/?key=67f6a108dc6d84eaf81ac58417c1f72a&url="
+        }
+      }
+    },
+    {
+      "key": "hipy_py_五八[AG¹]",
+      "name": "五八[AG¹](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppGet.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppGet",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://dy.58ys.vip",
+        "key": "JEWibY1AgWF0V1xx"
+      }
+    },
+    {
+      "key": "drpyS_西饭短剧",
+      "name": "西饭短剧(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/西饭短剧?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "西饭短剧",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpy2_相声随身听[听]",
+      "name": "相声随身听[听](DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "相声随身听[听]",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/相声随身听[听].js?pwd=dzyyds"
+    },
+    {
+      "key": "drpyS_小绿书[B]",
+      "name": "小绿书[B](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/小绿书[B]?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "小绿书[B]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_小雅动漫[EM³]",
+      "name": "小雅动漫[EM³](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/emby.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "emby",
+      "lang": "hipy",
+      "ext": {
+        "server": "http://139.9.106.196:2345",
+        "username": "kid",
+        "password": ""
+      }
+    },
+    {
+      "key": "hipy_py_欣欣影视",
+      "name": "欣欣影视(hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/欣欣影视.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "欣欣影视",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_新浪资源",
+      "name": "新浪资源(hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/新浪资源.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "新浪资源",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_星芽短剧",
+      "name": "星芽短剧(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/星芽短剧?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "星芽短剧",
+      "lang": "ds",
+      "ext": ""
+    },
+
+    {
+      "key": "hipy_py_雄鹰[AG²]",
+      "name": "雄鹰[AG²](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppGet.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppGet",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "key": "ca94b06ca359d80e",
+        "path": "/api.php/qijiappapi"
+      }
+    },
+    {
+      "key": "hipy_py_雪豹视频[Hs]",
+      "name": "雪豹视频[Hs](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppHs.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppHs",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://dy.jszdzs.com",
+        "app_id": "xuebao",
+        "deviceid": "",
+        "versionCode": "21300",
+        "UMENG_CHANNEL": "share"
+      }
+    },
+    {
+      "key": "drpy2_丫丫电子书[书]",
+      "name": "丫丫电子书[书](DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "丫丫电子书[书]",
+      "类型": "小说",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/丫丫电子书[书].js?pwd=dzyyds"
+    },
+    {
+      "key": "hipy_py_丫丫动漫[AG¹]",
+      "name": "丫丫动漫[AG¹](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppGet.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppGet",
+      "lang": "hipy",
+      "ext": {
+        "host": "http://tv.yy-fun.cc",
+        "key": "qkxnwkfjwpcnwycl"
+      }
+    },
+    {
+      "key": "hipy_py_呀哩4K[AF]",
+      "name": "呀哩4K[AF](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppFei.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppFei",
+      "lang": "hipy",
+      "ext": "https://ysc.yy-fun.cc/feiapp"
+    },
+    {
+      "key": "hipy_py_一起看[Ayq]",
+      "name": "一起看[Ayq](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppYqk.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppYqk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://gapi0320.3njzmrx1.com/config.json,https://gapi0320.lq0okex8.com/config.json,https://gapi0320.zabqs8xp.com/config.json,https://yappconfig-20250628-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://yconfig-20250628-1360051343.cos.ap-guangzhou.myqcloud.com/config.json",
+        "appId": "d6d520ea90904f1ba680ed6c9c9f9007",
+        "appkey": "70af67d2b6cf47679b397ea4c1886877",
+        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
+        "bundlerId": "com.flotimingo.ts",
+        "source": "1001_default",
+        "version": "1.3.10",
+        "versionCode": 1104
+      }
+    },
+    {
+      "key": "hipy_py_依赖测试",
+      "name": "依赖测试(hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/依赖测试.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "依赖测试",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_樱漫[漫]",
+      "name": "樱漫[漫](DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/樱漫[漫]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "樱漫[漫]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_云云[AG³]",
+      "name": "云云[AG³](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/getapp3.4.4.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "getapp3.4.4",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/1.txt",
+        "datakey": "staraugust123456",
+        "api": 2
+      }
+    },
+    {
+      "key": "hipy_py_掌上追剧[AG³]",
+      "name": "掌上追剧[AG³](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/getapp3.4.4.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "getapp3.4.4",
+      "lang": "hipy",
+      "ext": {
+        "host": "http://tvb.yy-fun.cc",
+        "key": "jcTz6Jda2aKrH8Tk"
+      }
+    },
+    {
+      "key": "drpy2_种子音乐[听]",
+      "name": "种子音乐[听](DR2)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/public/drpy/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "种子音乐[听]",
+      "lang": "dr2",
+      "ext": "https://drpy-node-mauve.vercel.app/js/种子音乐[听].js?pwd=dzyyds"
+    },
+    {
+      "key": "hipy_py_紫云[AV¹]",
+      "name": "紫云[AV¹](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppV1.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppV1",
+      "lang": "hipy",
+      "ext": "http://ziyuncms.feifan12.xyz/api.php"
+    },
+    {
+      "key": "drpyS_APP模板配置",
+      "name": "APP模板配置(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/APP模板配置?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "APP模板配置",
+      "more": {
+        "sourceTag": "设置,动作",
+        "actions": [
+          {
+            "name": "APP模板|配置相关",
+            "action": "{\"actionId\":\"单选菜单\",\"type\":\"menu\",\"title\":\"Action菜单\",\"width\":500,\"column\":1,\"option\":[\"导入分享配置$menu1\",\"分享APP配置$menu2\"],\"selectedIndex\":0}"
+          }
+        ]
+      },
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_Free影视[AS]",
+      "name": "Free影视[AS](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppSk.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppSk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://sk.xiaoyaoys.top/skkkkkkk.txt",
+        "key": "ygcnbcczduwydmrs",
+        "iv": "4672921073143708"
+      }
+    },
+    {
+      "key": "drpyS_gaze",
+      "name": "gaze(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/gaze?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "gaze",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_ikanbot",
+      "name": "ikanbot(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/ikanbot?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "ikanbot",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_iptv",
+      "name": "iptv(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/iptv?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "iptv",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_OMOfun[AG¹]",
+      "name": "OMOfun[AG¹](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppGet.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppGet",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://app.omofun1.top",
+        "key": "66dc309cbeeca454"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "push_agent(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/push_agent?pwd=dzyyds",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "push_agent",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "catvod_TuneHub[B]",
+      "name": "TuneHub[B](cat)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/cat/TuneHub[B].js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "TuneHub[B]",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_TVB云播",
+      "name": "TVB云播(DS)",
+      "type": 4,
+      "api": "https://drpy-node-mauve.vercel.app/api/TVB云播?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "TVB云播",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_TVB云播[AFX]",
+      "name": "TVB云播[AFX](hipy)",
+      "type": 3,
+      "api": "https://drpy-node-mauve.vercel.app/py/AppFox.py?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppFox",
+      "lang": "hipy",
+      "ext": "http://app.hktvyb.cc"
+    }
+  ],
+  "parses": [
+    {
+      "name": "777",
+      "url": "https://jx.777jiexi.com/player/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "8090g",
+      "url": "https://www.8090g.cn/jiexi/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "ik9",
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "杰森",
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "阳途",
+      "url": "https://jx.yangtu.top/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "冰豆",
+      "url": "https://bd.jx.cn/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "m3u8TV",
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "听乐",
+      "url": "https://jx.dj6u.com/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "虾米2",
+      "url": "https://jx.xmflv.cc/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "蓝光解析1",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "蓝光解析2",
+      "type": 0,
+      "url": "https://dm.xmflv.com:4433/?url="
+    },
+    {
+      "name": "优选解析1",
+      "type": 1,
+      "url": "http://isp.wki8.com/jx.php?url="
+    },
+    {
+      "name": "优选解析2",
+      "type": 1,
+      "url": "http://mf.0v.fit/api/?key=3ef5647feb0e98fdee66820efd36e2dd&url="
+    },
+    {
+      "name": "优选解析3",
+      "type": 1,
+      "url": "http://1.94.221.189:88/algorithm.php?url="
+    },
+    {
+      "name": "云析",
+      "url": "https://jx.yparse.com/index.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "解析1",
+      "type": 1,
+      "url": "https://www.mpanso.com/muou/qilin.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "反弹",
+      "type": 1,
+      "url": "http://110.40.85.39:81/jxxx/api.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "1080解析",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "qiyi[官源]",
+      "type": 1,
+      "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
+    },
+    {
+      "name": "肥猫最可爱",
+      "type": 1,
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+    {
+      "name": "1",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+    },
+    {
+      "name": "2",
+      "type": 1,
+      "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+    },
+    {
+      "name": "3",
+      "type": 1,
+      "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+    },
+    {
+      "name": "4",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    },
+    {
+      "name": "红狐",
+      "url": "https://player.mrgaocloud.com/player/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    }
+  ],
+  "flags": [
+    "imgo",
+    "youku",
+    "qq",
+    "qq 预告及花絮",
+    "iqiyi",
+    "qiyi",
+    "fun",
+    "letv",
+    "leshi",
+    "sohu",
+    "tudou",
+    "xigua",
+    "cntv",
+    "1905",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "renrenmi"
+  ],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "稳定github直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt"
+          ]
+        },
+        {
+          "name": "华数2",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u"
+          ]
+        },
+        {
+          "name": "杭州华数",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
+          ]
+        },
+        {
+          "name": "云星日记直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"
+          ]
+        },
+        {
+          "name": "本地嗅探器直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"
+          ]
+        }
+      ]
+    }
+  ]
+}
