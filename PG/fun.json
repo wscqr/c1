@@ -88,11 +88,11 @@
 			"api": "./js/py/plugin/adult/DSYS.py"
 		},
 		{
-			"key": "py_Miss",
+			"key": "py_Miss"，
 			"name": "Miss(T3)",
 			"type": 3,
 			"api": "./js/py/plugin/adult/Miss.py"
-		},
+		}，
 		{
 			"key": "py_Phb",
 			"name": "Phb(T3)",
@@ -508,6 +508,90 @@
 			"filterable": 1,
 			"ext": "proxy"
 		},
+				{
+			"api": "https://learnpython.ggff.net/51xiG",
+			"key": "51xiG",
+			"name": "🔞51xiG",
+			"type": 4
+		},
+		{
+			"api": "https://learnpython.ggff.net/911BaoLiao",
+			"key": "911BaoLiao",
+			"name": "🔞911BaoLiao",
+			"type": 4
+		},
+		{
+			"api": "https://learnpython.ggff.net/0007cg",
+			"key": "0007cg",
+			"name": "🔞007吃瓜",
+			"type": 4
+		},
+		{
+			"api": "https://learnpython.ggff.net/7QU",
+			"key": "7QU",
+			"name": "🔞7QU",
+			"type": 4
+		},
+		{
+			"api": "https://learnpython.ggff.net/91chigua",
+			"key": "91chigua",
+			"name": "🔞91chigua",
+			"type": 4
+		},
+		{
+			"api": "https://learnpython.ggff.net/DSYS",
+			"key": "DSYS",
+			"name": "🔞dsys",
+			"type": 4
+		},
+		{
+			"api": "https://learnpython.ggff.net/ELSQ",
+			"key": "ELSQ",
+			"name": "🔞ELSQ",
+			"type": 4
+		},
+		{
+			"api": "https://learnpython.ggff.net/ELXCN",
+			"key": "ELXCN",
+			"name": "🔞ELXCN",
+			"type": 4
+		},
+		{
+			"api": "https://learnpython.ggff.net/HLBTY",
+			"key": "HLBTY",
+			"name": "🔞黑料不打烊",
+			"type": 4
+		},
+		{
+			"key": "py_rou",
+			"name": "🔞肉視頻",
+			"type": 4,
+			"api": "https://py.doube.eu.org/v2/spider?site=96c1ddea0f3b27f1955ed512f0e7a9d7"
+		},
+		{
+			"key": "py_BadNews",
+			"name": "🔞BadNews",
+			"type": 4,
+			"api": "https://py.doube.eu.org/spider?site=BadNews"
+		},
+		{
+			"key": "py_Miss",
+			"name": "🔞MissAV",
+			"type": 4,
+			"api": "https://py.doube.eu.org/spider?site=Miss"
+		},
+		{
+			"key": "py_AiDou",
+			"name": "🔞AiDou",
+			"type": 4,
+			"api": "https://py.doube.eu.org/spider?site=AiDou"
+		},
+		{
+			"key": "py_madou",
+			"name": "🔞MaDou",
+			"type": 4,
+			"api": "https://py.doube.eu.org/spider?site=MaDou"
+		},
 		{
 			"key": "白嫖",
 			"name": "白嫖采集",
@@ -739,7 +823,7 @@
 			"playerType": 1,
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://live.fanmingming.com/tv/{name}.png"
-		},
+		}，
 		{
 			"name": "天美传媒816",
 			"type": 0,
